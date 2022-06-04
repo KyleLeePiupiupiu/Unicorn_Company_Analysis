@@ -1,0 +1,963 @@
+"Company","Valuation...B.","Date.Joined","Country","City","Industry","Founded.Year","Total.Raised","Investors.Count","Deal.Terms","dayJoin","monthJoin","yearJoin"
+"Bytedance",140,"4/7/2017","China","Beijing","Artificial intelligence",2012,7440,28,8,7,4,2017
+"SpaceX",100.3,"12/1/2012","United States","Hawthorne","Other",2002,6874,29,12,1,12,2012
+"Stripe",95,"1/23/2014","United States","San Francisco","Fintech",2010,2901,39,12,23,1,2014
+"Klarna",45.6,"12/12/2011","Sweden","Stockholm","Fintech",2005,3472,56,13,12,12,2011
+"Epic Games",42,"10/26/2018","United States","Cary","Other",1991,4377,25,5,26,10,2018
+"Canva",40,"1/8/2018","Australia","Surry Hills","Internet software & services",2012,571.26,26,8,8,1,2018
+"Checkout.com",40,"5/2/2019","United Kingdom","London","Fintech",2012,1830,15,4,2,5,2019
+"Instacart",39,"12/30/2014","United States","San Francisco","Supply chain, logistics, & delivery",2012,2686,29,12,30,12,2014
+"Databricks",38,"2/5/2019","United States","San Francisco","Data management & analytics",2013,3497,29,8,5,2,2019
+"Revolut",33,"4/26/2018","United Kingdom","London","Fintech",2015,1716,31,6,26,4,2018
+"FTX",32,"7/20/2021","Bahamas","Fintech","Sequoia Capital, Thoma Bravo, Softbank",2018,1829,40,3,20,7,2021
+"Fanatics",27,"6/6/2012","United States","Jacksonville","E-commerce & direct-to-consumer",1995,4190,21,10,6,6,2012
+"Chime",25,"3/5/2019","United States","San Francisco","Fintech",2013,2599,24,9,5,3,2019
+"BYJU's",21,"7/25/2017","India","Bengaluru","Edtech",2008,5183,45,19,25,7,2017
+"Xiaohongshu",20,"3/31/2016","China","Shanghai","E-commerce & direct-to-consumer",2013,917.5,9,3,31,3,2016
+"J&T Express",20,"4/7/2021","Indonesia","Jakarta","Supply chain, logistics, & delivery",2015,4653,9,3,7,4,2021
+"Miro",17.5,"1/5/2022","United States","San Francisco","Internet software & services",2011,475,18,1,5,1,2022
+"Yuanfudao",15.5,"5/31/2017","China","Beijing","Edtech",2012,4044,18,7,31,5,2017
+"DJI Innovations",15,"1/23/2015","China","Shenzhen","Hardware",2006,1135,7,3,23,1,2015
+"SHEIN",15,"7/3/2018","China","Shenzhen","E-commerce & direct-to-consumer",2008,553.36,8,3,3,7,2018
+"goPuff",15,"10/8/2020","United States","Philadelphia","E-commerce & direct-to-consumer",2013,3397,16,4,8,10,2020
+"Yuanqi Senlin",15,"3/1/2020","China","Beijing","Consumer & retail",2016,721.31,13,3,1,3,2020
+"Ripple",15,"12/20/2019","United States","San Francisco","Fintech",2012,293.9,34,5,20,12,2019
+"Plaid",13.4,"12/11/2018","United States","San Francisco","Fintech",2012,734.8,24,5,11,12,2018
+"OpenSea",13.3,"7/20/2021","United States","New York","E-commerce & direct-to-consumer",2017,425.12,26,2,20,7,2021
+"Grammarly",13,"10/10/2019","United States","San Francisco","Internet software & services",2009,400,8,3,10,10,2019
+"Devoted Health",12.6,"10/16/2018","United States","Waltham","Health",2017,1969,16,4,16,10,2018
+"Faire",12.4,"10/30/2019","United States","San Francisco","Artificial intelligence",2017,1096,14,6,30,10,2019
+"Brex",12.3,"10/5/2018","United States","San Francisco","Fintech",2017,1490,28,7,5,10,2018
+"JUUL Labs",12,"12/20/2017","United States","San Francisco","Consumer & retail",2015,1490,28,7,20,12,2017
+"Bitmain Technologies",12,"7/6/2018","China","Beijing","Hardware",2015,1490,28,7,6,7,2018
+"Biosplice Therapeutics",12,"8/6/2018","United States","San Diego","Health",2008,561.5,10,1,6,8,2018
+"GoodLeap",12,"10/13/2021","United States","Roseville","Internet software & services",2003,1800,8,1,13,10,2021
+"Airtable",11.7,"11/15/2018","United States","San Francisco","Internet software & services",2013,1353,41,6,15,11,2018
+"ZongMu Technology",11.4,"6/3/2021","China","Shanghai","Auto & transportation",2013,210.83,19,2,3,6,2021
+"Global Switch",11.1,"12/22/2016","United Kingdom","London","Hardware",1998,6255,6,2,22,12,2016
+"Celonis",11,"6/26/2018","Germany","Munich","Data management & analytics",2011,1368,13,4,26,6,2018
+"Bolt",11,"10/8/2021","United States","San Francisco","Fintech",2014,963,37,3,8,10,2021
+"Alchemy",10.2,"10/28/2021","United States","San Francisco","Fintech",2017,545,27,3,28,10,2021
+"Swiggy",10.7,"6/21/2018","India","Bengaluru","Supply chain, logistics, & delivery",2014,3571,36,12,21,6,2018
+"Lalamove",10,"2/21/2019","Hong Kong","Cheung Sha Wan","Supply chain, logistics, & delivery",2013,2475,15,5,21,2,2019
+"Figma",10,"4/30/2020","United States","San Francisco","Internet software & services",2012,333.5,20,6,30,4,2020
+"Gusto",10,"12/18/2015","United States","San Francisco","Fintech",2011,691.12,70,9,18,12,2015
+"reddit",10,"7/31/2017","United States","San Francisco","Internet software & services",2005,1326,33,5,31,7,2017
+"Talkdesk",10,"10/3/2018","United States","San Francisco","Internet software & services",2011,504.77,19,6,3,10,2018
+"Notion Labs",10,"4/1/2020","United States","San Francisco","Internet software & services",2016,342,17,3,1,4,2020
+"Thrasio",10,"7/15/2020","United States","Walpole","Other",2018,3396,22,5,15,7,2020
+"Digital Currency Group",10,"11/1/2021","United States","New York","Finttech",2018,3396,22,5,1,11,2021
+"OutSystems",9.5,"6/5/2018","United States","Boston","Internet software & services",2001,572.01,13,3,5,6,2018
+"ServiceTitan",9.5,"11/14/2018","United States","Glendale","Internet software & services",2012,1099,16,6,14,11,2018
+"HEYTEA",9.28,"7/1/2019","China","Shenzhen","Other",2012,579.23,13,3,1,7,2019
+"N26",9.23,"1/10/2019","Germany","Berlin","Fintech",2013,1722,21,7,10,1,2019
+"Klaviyo",9.2,"11/17/2020","United States","Boston","Internet software & services",2012,678.5,15,3,17,11,2020
+"Northvolt",9.08,"6/12/2019","Sweden","Stockholm","Other",2016,6162,54,4,12,6,2019
+"Tanium",9,"3/31/2015","United States","Kirkland","Cybersecurity",2007,1170,15,13,31,3,2015
+"Chehaoduo",9,"3/12/2016","China","Beijing","E-commerce & direct-to-consumer",2015,4304,35,4,12,3,2016
+"Niantic",9,"11/24/2017","United States","San Francisco","Mobile & telecommunications",2015,770,22,5,24,11,2017
+"OYO Rooms",9.6,"9/25/2018","India","Gurugram","Travel",2012,3114,20,11,25,9,2018
+"Rapyd",8.75,"12/3/2019","United Kingdom","London","Fintech",2016,775,21,4,3,12,2019
+"Kavak",8.7,"10/1/2020","Mexico","Lerma de Villada","E-commerce & direct-to-consumer",2016,1188,16,4,1,10,2020
+"Snyk",8.6,"1/21/2020","United States","Boston","Cybersecurity",2015,1026,26,9,21,1,2020
+"Nuro",8.6,"2/11/2019","United States","Mountain View","Auto & transportation",2016,2132,11,4,11,2,2019
+"Bolt",8.4,"5/29/2018","Estonia","Tallinn","Auto & transportation",2013,1971,28,5,29,5,2018
+"Lacework",8.3,"1/7/2021","United States","San Jose","Cybersecurity",2015,1907,19,4,7,1,2021
+"Tipalti",8.3,"10/6/2020","United States","San Mateo","Fintech",2010,556,10,5,6,10,2020
+"Tempus",8.1,"3/21/2018","United States","Chicago","Health",2015,1070,10,6,21,3,2018
+"Xingsheng Selected",8,"7/22/2020","China","Changsha","E-commerce & direct-to-consumer",2009,5040,14,5,22,7,2020
+"Dream11",8,"4/9/2019","India","Mumbai","Internet software & services",2007,1165,15,8,9,4,2019
+"Fireblocks",8,"7/27/2021","United States","New York","Fintech",2018,1039,27,3,27,7,2021
+"Ramp",8,"3/29/2021","United States","New York","Fintech",2019,827,18,5,29,3,2021
+"Flexport",8,"4/30/2018","United States","San Francisco","Supply chain, logistics, & delivery",2013,2237,28,6,30,4,2018
+"Caris Life Sciences",7.83,"5/17/2021","United States","Irving","Health",1996,1314,17,3,17,5,2021
+"Dapper Labs",7.6,"3/30/2021","Canada","Vancouver","Fintech",2018,671.9,85,3,30,3,2021
+"Getir",7.5,"3/26/2021","Turkey","Istanbul","E-commerce & direct-to-consumer",2015,1172,15,3,26,3,2021
+"Netskope",7.5,"11/13/2018","United States","Santa Clara","Cybersecurity",2012,1040,13,8,13,11,2018
+"Razorpay",7.5,"10/11/2020","India","Bengaluru","Fintech",2013,741.62,24,6,11,10,2020
+"Toss",7.4,"12/9/2018","South Korea","Seoul","Fintech",2013,844.2,17,6,9,12,2018
+"Carta",7.4,"5/6/2019","United States","San Francisco","Fintech",2012,1158,32,8,6,5,2019
+"Gong",7.25,"8/12/2020","United States","Palo Alto","Artificial intelligence",2015,583,13,4,12,8,2020
+"TripActions",7.25,"11/8/2018","United States","Palo Alto","Travel",2015,1040,13,6,8,11,2018
+"Gemini",7.1,"11/19/2021","United States","New York","Fintech",2015,400,15,1,19,11,2021
+"We Doctor",7,"9/22/2015","China","Hangzhou","Health",2010,1786,16,3,22,9,2015
+"Discord",7,"4/20/2018","United States","San Francisco","Internet software & services",2012,979.3,28,10,20,4,2018
+"Ro",7,"7/27/2020","United States","New York","Health",2017,1027,27,5,27,7,2020
+"Automation Anywhere",6.8,"7/2/2018","United States","San Jose","Artificial intelligence",2003,840,8,3,2,7,2018
+"1Password",6.8,"7/8/2021","Canada","Toronto","Cybersecurity",2005,920.14,30,2,8,7,2021
+"Ziroom",6.6,"1/17/2018","China","Beijing","E-commerce & direct-to-consumer",2011,2121,12,3,17,1,2018
+"National Stock Exchange of India",6.5,"7/1/2020","India","Mumbai","Fintech",1992,149.5,7,1,1,7,2020
+"Mollie",6.5,"9/8/2020","Netherlands","Amsterdam","Fintech",2004,934.32,12,2,8,9,2020
+"Rippling",6.5,"8/4/2020","United States","San Francisco","Internet software & services",2017,447.12,15,4,4,8,2020
+"DataRobot",6.3,"7/29/2019","United States","Boston","Artificial intelligence",2012,1089,36,7,29,7,2019
+"Personio",6.3,"1/19/2021","Germany","Munich","Internet software & services",2015,524.83,17,4,19,1,2021
+"Upgrade",6.28,"2/12/2018","United States","San Francisco","Fintech",2016,562.5,23,5,12,2,2018
+"Hinge Health",6.2,"1/6/2021","United States","San Francisco","Health",2015,853.85,13,6,6,1,2021
+"Black Unicorn Factory",6.1,"5/20/2021","United States","Los Angeles","Other",2020,645,1,1,20,5,2021
+"Benchling",6.1,"4/14/2021","United States","San Francisco","Internet software & services",2012,412,29,5,14,4,2021
+"Royole Corporation",6,"8/18/2015","China","Shenzhen","Hardware",2012,1414,32,4,18,8,2015
+"Wiz",6,"3/17/2021","Israel","Tel Aviv","Cybersecurity",2020,600,10,4,17,3,2021
+"iCapital Network",6,"7/27/2021","United States","New York","Fintech",2013,729.22,28,2,27,7,2021
+"Pine Labs",6,"1/24/2020","India","Noida","Fintech",1998,1077,25,6,24,1,2020
+"6Sense",5.2,"3/30/2021","United States","San Francisco","Artificial intelligence",2013,424,19,6,30,3,2021
+"Attentive",5.99,"9/23/2020","United States","Hoboken","Mobile & telecommunications",2016,864.52,12,2,23,9,2020
+"Easyhome",5.78,"2/12/2018","China","Beijing","Consumer & retail",1999,2085,12,1,12,2,2018
+"Lianjia",5.77,"4/7/2016","China","Beijing","E-commerce & direct-to-consumer",2001,1701,15,2,7,4,2016
+"Vice Media",5.7,"4/2/2011","United States","Brooklyn","Internet software & services",1994,1555,14,6,2,4,2011
+"Cityblock Health",5.7,"12/10/2020","United States","Brooklyn","Health",2017,891.3,17,3,10,12,2020
+"Workato",5.7,"1/12/2021","United States","Mountain View","Internet software & services",2013,415,11,3,12,1,2021
+"Back Market",5.7,"5/18/2021","France","Paris","E-commerce & direct-to-consumer",2014,1021,12,4,18,5,2021
+"RELEX Solutions",5.7,"2/17/2022","Finland","Helsinki","Supply chain, logistics, & delivery",2005,792.36,4,1,17,2,2022
+"Postman",5.6,"6/11/2020","United States","San Francisco","Internet software & services",2014,433,8,3,11,6,2020
+"FiveTran",5.6,"6/30/2020","United States","Oakland","Data management & analytics",2012,728.02,8,3,30,6,2020
+"Pony.ai",5.3,"7/11/2018","United States","Fremont","Artificial intelligence",2016,1093,25,7,11,7,2018
+"Trade Republic",5.3,"5/20/2021","Germany","Berlin","Fintech",2015,986.88,7,1,20,5,2021
+"Rappi",5.25,"8/31/2018","Colombia","Bogota","Supply chain, logistics, & delivery",2015,2248,35,5,31,8,2018
+"Collibra",5.25,"1/29/2019","Belgium","Brussels","Data management & analytics",2008,595.9,13,6,29,1,2019
+"Blockchain.com",5.2,"2/17/2021","United Kingdom","London","Fintech",2011,490.5,22,4,17,2,2021
+"OneTrust",5.1,"7/11/2019","United States","Atlanta","Internet software & services",2016,937.29,5,3,11,7,2019
+"QuintoAndar",5.1,"9/9/2019","Brazil","Campinas","E-commerce & direct-to-consumer",2012,755.74,16,6,9,9,2019
+"United Imaging Healthcare",5,"9/15/2017","China","Shanghai","Health",2011,500,6,1,15,9,2017
+"Hello TransTech",5,"6/1/2018","China","Shanghai","Auto & transportation",2016,2701,13,3,1,6,2018
+"Deel",5.5,"4/21/2021","United States","San Francisco","Fintech",2018,625.15,19,3,21,4,2021
+"Airwallex",5.5,"3/25/2019","Australia","Melbourne","Fintech",2015,802,23,8,25,3,2019
+"Mambu",5.5,"1/6/2021","Netherlands","Amsterdam","Fintech",2011,445.51,10,4,6,1,2021
+"Horizon Robotics",5,"2/27/2019","China","Beijing","Artificial intelligence",2015,2200,56,2,27,2,2019
+"WM Motor",5,"3/8/2019","China","Shanghai","Auto & transportation",2015,5987,35,1,8,3,2019
+"Howden Group Holdings",5,"9/29/2020","United Kingdom","London","Other",1994,187.26,4,3,29,9,2020
+"SambaNova Systems",5,"4/13/2021","United States","Palo Alto","Data management & analytics",2017,1132,10,2,13,4,2021
+"ZEPZ",5,"8/23/2021","United Kingdom","London","Fintech",2010,692,9,6,23,8,2021
+"OakNorth Bank",5,"10/12/2017","United Kingdom","London","Fintech",2015,990.52,10,6,12,10,2017
+"Moon Active",5,"1/26/2020","Israel","Tel Aviv","Mobile & telecommunications",2015,990.52,10,6,26,1,2020
+"OfBusiness",5,"7/31/2021","India","Gurgaon","E-commerce & direct-to-consumer",2015,855.55,14,6,31,7,2021
+"Cockroach Labs",5,"1/12/2021","United States","New York","Data management & analytics",2015,632.85,17,5,12,1,2021
+"Qonto",5,"1/11/2022","France","Paris","Fintech",2016,703.39,17,3,11,1,2022
+"Ola Electric Mobility",5,"7/2/2019","India","Bengaluru","Auto & transportation",2019,822.29,20,3,2,7,2019
+"Icertis",5,"7/17/2019","United States","Bellevue","Artificial intelligence",2009,371.5,12,6,17,7,2019
+"Hopper",5,"3/24/2021","Canada","Montreal","Travel",2007,614.2,18,6,24,3,2021
+"Meesho",4.9,"4/5/2021","India","Bengaluru","Internet software & services",2015,1061,26,5,5,4,2021
+"Creditas",4.8,"12/18/2020","Brazil","Sao Paulo","Fintech",2012,867.44,25,5,18,12,2020
+"Pleo",4.7,"7/6/2021","Denmark","Copenhagen","Fintech",2015,428.8,16,4,6,7,2021
+"Anduril",4.6,"9/11/2019","United States","Irvine","Artificial intelligence",2017,828.5,14,4,11,9,2019
+"Lyra Health",5.85,"8/25/2020","United States","Burlingame","Health",2015,906.13,22,7,25,8,2020
+"Dataiku",4.6,"12/4/2019","United States","New York","Internet software & services",2013,646.6,16,5,4,12,2019
+"Checkr",4.6,"9/19/2019","United States","San Francisco","Internet software & services",2014,559,24,5,19,9,2019
+"Color",4.6,"1/4/2021","United States","Burlingame","Health",2013,496.04,25,5,4,1,2021
+"Meizu Technology",4.58,"7/23/2014","China","Zhuhai","Hardware",2003,943.1,4,2,23,7,2014
+"Vinted",4.53,"11/27/2019","Lithuania","Vilnius","E-commerce & direct-to-consumer",2008,562.23,9,5,27,11,2019
+"VIPKid",4.5,"8/4/2016","China","Beijing","Edtech",2013,975.49,12,3,4,8,2016
+"Socure",4.5,"3/16/2021","United States","New York","Cybersecurity",2012,648.25,22,4,16,3,2021
+"UBTECH Robotics",4.58,"7/25/2016","China","Shenzhen","Hardware",2012,645.6,22,7,25,7,2016
+"Outreach",4.4,"4/16/2019","United States","Seattle","Internet software & services",2011,489.78,27,9,16,4,2019
+"WeRide",4.4,"12/23/2020","China","Guangzhou","Auto & transportation",2017,789,30,6,23,12,2020
+"BetterUp",4.7,"2/25/2021","United States","San Francisco","Internet software & services",2013,566.9,18,4,25,2,2021
+"Arctic Wolf Networks",4.3,"10/22/2020","United States","Eden Prairie","Cybersecurity",2012,498.25,14,4,22,10,2020
+"Sorare",4.3,"9/21/2021","France","Paris","E-commerce & direct-to-consumer",2019,737.08,24,1,21,9,2021
+"Relativity Space",4.2,"11/23/2020","United States","Inglewood","Other",2016,1385,35,4,23,11,2020
+"Miaoshou Doctor",4.25,"6/27/2019","China","Beijing","E-commerce & direct-to-consumer",2015,971.14,21,4,27,6,2019
+"Chainalysis",4.2,"11/23/2020","United States","New York","Fintech",2014,366.72,25,4,23,11,2020
+"ThoughtSpot",4.2,"5/8/2018","United States","Sunnyvale","Internet software & services",2012,673.7,20,7,8,5,2018
+"Globalization Partners",4.2,"1/24/2022","United States","Boston","Internet software & services",2012,353.5,5,1,24,1,2022
+"dbt Labs",4.2,"6/30/2021","United States","Philadelphia","Data management & analytics",2016,415.9,12,2,30,6,2021
+"Dataminr",4.1,"6/4/2018","United States","New York","Artificial intelligence",2009,1044,35,6,4,6,2018
+"BitPanda",4.11,"3/16/2021","Austria","Vienna","Fintech",2014,497.43,12,2,16,3,2021
+"Weee!",4.1,"3/16/2021","United States","Fremont","Supply chain, logistics, & delivery",2015,836.3,14,3,16,3,2021
+"Houzz",4,"9/30/2014","United States","Palo Alto","E-commerce & direct-to-consumer",2008,613.6,18,5,30,9,2014
+"Yello Mobile",4,"11/11/2014","South Korea","Seoul","Mobile & telecommunications",2012,216.07,8,6,11,11,2014
+"MEGVII",4,"10/31/2017","China","Beijing","Artificial intelligence",2011,1358,18,6,31,10,2017
+"Greensill",4,"7/16/2018","United Kingdom","London","Fintech",2011,1705,2,2,16,7,2018
+"Impossible Foods",4,"5/13/2019","United States","Redwood City","Consumer & retail",2011,2006,38,7,13,5,2019
+"Radiology Partners",4,"7/19/2019","United States","El Segundo","Health",2012,1347,4,1,19,7,2019
+"Next Insurance",4,"10/7/2019","United States","Palo Alto","Fintech",2016,881,17,6,7,10,2019
+"Patreon",4,"9/2/2020","United States","San Francisco","Internet software & services",2013,412.1,28,7,2,9,2020
+"PointClickCare",4,"1/7/2021","Canada","Mississauga","Internet software & services",2000,86.88,3,1,7,1,2021
+"BrowserStack",4,"6/16/2021","Ireland","Dublin","Internet software & services",2011,250,3,2,16,6,2021
+"Olive",4,"12/1/2020","United States","Columbus","Internet software & services",2012,858.8,16,4,1,12,2020
+"Rubrik",4,"4/28/2017","United States","Palo Alto","Data management & analytics",2014,553,10,6,28,4,2017
+"Melio",4,"1/25/2021","United States","New York","Fintech",2018,504,13,2,25,1,2021
+"Vuori",4,"10/13/2021","United States","Carlsbad","E-commerce & direct-to-consumer",2015,802,23,8,13,10,2021
+"ClickUp",4,"12/15/2020","United States","San Diego","Internet software & services",2017,535,6,2,15,12,2020
+"Cerebras Systems",4,"11/14/2018","United States","Los Altos","Hardware",2016,718,14,3,14,11,2018
+"Farmers Business Network",4,"8/3/2020","United States","San Carlos","Other",2014,739.6,21,5,3,8,2020
+"Branch",4,"9/10/2018","United States","Redwood City","Mobile & telecommunications",2014,542,15,5,10,9,2018
+"Aurora Solar",4,"5/24/2021","United States","San Francisco","Internet software & services",2013,520.4,9,2,24,5,2021
+"Medlinker",3.92,"7/31/2018","China","Chengdu","Health",2014,764.74,10,6,31,7,2018
+"Intarcia Therapeutics",3.8,"4/1/2014","United States","Boston","Health",1995,1487,38,14,1,4,2014
+"StockX",3.8,"6/26/2019","United States","Detroit","E-commerce & direct-to-consumer",2016,520,30,4,26,6,2019
+"MessageBird",3.8,"10/8/2020","Netherlands","Amsterdam","Mobile & telecommunications",2011,1100,15,3,8,10,2020
+"Guild Education",3.75,"11/13/2019","United States","Denver","Internet software & services",2015,376.5,25,5,13,11,2019
+"Articulate",3.75,"7/1/2021","United States","New York","Edtech",2015,376.5,25,5,1,7,2021
+"FalconX",3.75,"8/10/2021","United States","San Mateo","Fintech",2018,277,15,2,10,8,2021
+"Dutchie",3.75,"3/16/2021","United States","Bend","E-commerce & direct-to-consumer",2017,603,14,2,16,3,2021
+"Cohesity",3.7,"6/11/2018","United States","San Jose","Data management & analytics",2013,660,22,6,11,6,2018
+"VAST Data",3.7,"4/16/2020","United States","New York","Data management & analytics",2016,263,11,2,16,4,2020
+"GOAT",3.7,"9/23/2020","United States","Culver City","E-commerce & direct-to-consumer",2015,491.62,28,6,23,9,2020
+"Noom",3.7,"5/24/2021","United States","New York","Health",2006,627.8,28,3,24,5,2021
+"Redwood Materials",3.7,"7/28/2021","United States","Carson City","Other",2017,792,12,1,28,7,2021
+"Papaya Global",3.7,"3/4/2021","United States","New York","Internet software & services",2016,438,16,2,4,3,2021
+"ShareChat",3.7,"4/8/2021","India","Bengaluru","Internet software & services",2015,1277,22,7,8,4,2021
+"Relativity",3.6,"3/18/2021","United States","Chicago","Internet software & services",2001,125,2,1,18,3,2021
+"Whoop",3.6,"10/28/2020","United States","Boston","E-commerce & direct-to-consumer",2012,404.38,36,6,28,10,2020
+"Applied Intuition",3.6,"10/22/2020","United States","Sunnyvale","Data management & analytics",2017,340,21,2,22,10,2020
+"Course Hero",3.6,"2/12/2020","United States","Redwood City","Edtech",2006,475.68,17,4,12,2,2020
+"Otto Bock HealthCare",3.52,"6/24/2017","Germany","Duderstadt","Health",1919,815.49,2,1,24,6,2017
+"Indigo Ag",3.5,"9/26/2017","United States","Boston","Artificial intelligence",2014,1177,10,5,26,9,2017
+"HyalRoute",3.5,"5/26/2020","Singapore","Mobile & telecommunications","Kuang-Chi",2015,263.12,1,1,26,5,2020
+"Rec Room",3.5,"3/23/2021","United States","Seattle","Internet software & services",2016,294.82,13,3,23,3,2021
+"Digit Insurance",3.5,"1/15/2021","India","Bengaluru","Fintech",2016,424.16,15,5,15,1,2021
+"Commure",3.5,"9/13/2021","United States","San Francisco","Internet software & services",2017,743.89,2,2,13,9,2021
+"Mirakl",3.5,"9/22/2020","France","Paris","E-commerce & direct-to-consumer",2011,948,6,4,22,9,2020
+"Coalition",3.5,"3/16/2021","United States","San Francisco","Cybersecurity",2017,520,14,4,16,3,2021
+"Tekion",3.5,"10/21/2020","United States","San Ramon","Internet software & services",2016,400,14,2,21,10,2020
+"Celsius Network",3.5,"10/12/2021","United States","Hoboken","Fintech",2017,778.8,4,3,12,10,2021
+"GoStudent",3.5,"6/22/2021","Austria","Vienna","Edtech",2017,684.79,13,3,22,6,2021
+"Highspot",3.5,"2/22/2021","United States","Seattle","Internet software & services",2013,652.85,13,5,22,2,2021
+"Handshake",3.5,"5/12/2021","United States","San Francisco","Internet software & services",2014,430.5,16,6,12,5,2021
+"ChargeBee Technologies",3.5,"4/20/2021","United States","Walnut","Fintech",2011,468.65,6,4,20,4,2021
+"Flock Safety",3.5,"7/13/2021","United States","Atlanta","Hardware",2017,382.14,15,2,13,7,2021
+"Unacademy",3.44,"9/2/2020","India","Bengaluru","Edtech",2015,875.73,34,9,2,9,2020
+"MoonPay",3.4,"11/22/2021","United States","Miami","Fintech",2019,555,6,1,22,11,2021
+"Upstox",3.4,"11/29/2021","India","Mumbai","Fintech",2010,54,4,2,29,11,2021
+"Youxia Motors",3.35,"4/2/2018","China","Shanghai","Auto & transportation",2014,1326,7,2,2,4,2018
+"OwnBackup",3.35,"1/28/2021","United States","Englewood Cliffs","Data management & analytics",2015,507.25,12,4,28,1,2021
+"Cloudwalk",3.32,"10/8/2018","China","Guangzhou","Artificial intelligence",2015,778.82,38,1,8,10,2018
+"ECARX",3.31,"10/26/2020","China","Wuhan","Auto & transportation",2016,443.67,6,3,26,10,2020
+"Sila Nanotechnologies",3.3,"4/16/2019","United States","Alameda","Other",2011,930.83,15,2,16,4,2019
+"Scopely",3.3,"10/29/2019","United States","Culver City","Mobile & telecommunications",2011,998.5,53,7,29,10,2019
+"Komodo Health",3.3,"5/22/2020","United States","San Francisco","Health",2014,315,10,1,22,5,2020
+"Kurly",3.3,"7/9/2021","South Korea","Seoul","Supply chain, logistics, & delivery",2014,769.86,20,6,9,7,2021
+"Cars24",3.3,"11/24/2020","India","Gurgaon","E-commerce & direct-to-consumer",2015,1296,30,5,24,11,2020
+"BlockDaemon",3.25,"9/21/2021","United States","Los Angeles","Fintech",2016,401.54,34,2,21,9,2021
+"Dadi Cinema",3.24,"5/11/2016","China","Shenzhen","Other",2006,154,1,1,11,5,2016
+"Thumbtack",3.2,"9/29/2015","United States","San Francisco","E-commerce & direct-to-consumer",2008,698.85,26,9,29,9,2015
+"Cedar",3.2,"3/9/2021","United States","New York","Fintech",2016,350.81,16,3,9,3,2021
+"Eruditus Executive Education",3.2,"8/12/2021","India","Mumbai","Edtech",2010,593.46,13,5,12,8,2021
+"Blockstream",3.2,"8/24/2021","Canada","Vancouver","Fintech",2014,311,23,4,24,8,2021
+"ConsenSys",3.2,"11/17/2021","United States","New York","Fintech",2014,282.5,24,1,17,11,2021
+"Innovaccer",3.2,"2/19/2021","United States","San Francisco","Health",2014,375.68,27,4,19,2,2021
+"Ironclad",3.2,"1/18/2022","United States","Sacramento","Internet software & services",2014,331.12,10,3,18,1,2022
+"Skims",3.2,"4/9/2021","United States","Los Angeles","E-commerce & direct-to-consumer",2019,394,5,2,9,4,2021
+"PsiQuantum",3.15,"7/27/2021","United States","Palo Alto","Hardware",2016,728.5,10,1,27,7,2021
+"SpotOn",3.15,"5/26/2021","United States","San Francisco","Fintech",2017,600,13,3,26,5,2021
+"Udaan",3.1,"9/4/2018","India","Bengaluru","Supply chain, logistics, & delivery",2016,1447,21,5,4,9,2018
+"HighRadius",3.1,"1/7/2020","United States","Houston","Fintech",2006,475,11,2,7,1,2020
+"Nuvemshop",3.1,"8/17/2021","Brazil","Sao Paulo","E-commerce & direct-to-consumer",2011,628.3,24,2,17,8,2021
+"DailyHunt",3.1,"12/22/2020","India","Bengaluru","Internet software & services",2007,868.67,24,7,22,12,2020
+"Yixia",3,"11/24/2015","China","Beijing","Mobile & telecommunications",2011,775,10,2,24,11,2015
+"Traveloka",3,"1/1/2017","Indonesia","Jakarta","Travel",2012,1170,8,3,1,1,2017
+"SouChe Holdings",3,"11/1/2017","China","Hangzhou","E-commerce & direct-to-consumer",2012,1282,22,2,1,11,2017
+"BGL Group",3,"11/24/2017","United Kingdom","Peterborough","Fintech",1992,900,1,1,24,11,2017
+"Circle",3,"5/15/2018","United States","Boston","Fintech",2013,712.5,34,6,15,5,2018
+"Zuoyebang",3,"7/18/2018","China","Beijing","Edtech",2014,3435,17,2,18,7,2018
+"Delhivery",3,"2/27/2019","India","Gurgaon","Supply chain, logistics, & delivery",2011,1361,16,5,27,2,2019
+"FlixMobility",3,"7/18/2019","Germany","Munich","Auto & transportation",2013,1211,16,3,18,7,2019
+"Wildlife Studios",3,"12/5/2019","Brazil","Sao Paulo","Other",2011,180,9,2,5,12,2019
+"ApplyBoard",3,"5/5/2020","Canada","Kitchener","Edtech",2015,479.91,19,3,5,5,2020
+"Forter",3,"11/19/2020","United States","New York","Cybersecurity",2013,525,17,4,19,11,2020
+"Calendly",3,"1/26/2021","United States","Atlanta","Internet software & services",2013,350.55,4,1,26,1,2021
+"BlockFi",3,"3/11/2021","United States","Jersey City","Fintech",2017,512.75,44,3,11,3,2021
+"ActiveCampaign",3,"4/21/2021","United States","Chicago","Internet software & services",2003,360,4,1,21,4,2021
+"CMR Surgical",3,"9/17/2019","United Kingdom","Cambridge","Health",2014,986.3,14,4,17,9,2019
+"Lucid Software",3,"6/29/2021","United States","South Jordan","Internet software & services",2010,166,14,4,29,6,2021
+"Age of Learning",3,"5/3/2016","United States","Glendale","Edtech",2007,481.5,4,2,3,5,2016
+"Carbon Health",3,"7/21/2021","United States","San Francisco","Health",2015,523.18,36,2,21,7,2021
+"Contentful",3,"7/28/2021","Germany","Berlin","Internet software & services",2013,331,13,3,28,7,2021
+"LaunchDarkly",3,"7/28/2021","United States","Oakland","Internet software & services",2014,330.34,13,4,28,7,2021
+"Seismic",3,"12/18/2018","United States","San Diego","Internet software & services",2010,426.5,8,6,18,12,2018
+"Grafana Labs",3,"8/24/2021","United States","New York","Internet software & services",2014,330.23,5,1,24,8,2021
+"Gorillas",3.1,"3/25/2021","Germany","Berlin","E-commerce & direct-to-consumer",2020,1335,14,2,25,3,2021
+"Sky Mavis",3,"10/4/2021","Vietnam","Ho Chi Minh City","Internet software & services",2019,161,18,1,4,10,2021
+"Outschool",3,"4/14/2021","United States","San Francisco","Edtech",2015,240.02,13,2,14,4,2021
+"TradingView",3,"10/14/2021","United States","Westerville","Fintech",2011,339.37,10,4,14,10,2021
+"Groww",3,"4/7/2021","India","Bengaluru","Fintech",2017,399.89,17,3,7,4,2021
+"Podium",3,"4/7/2020","United States","Lehi","Internet software & services",2014,422.22,12,4,7,4,2020
+"Via",3.3,"3/30/2020","United States","New York","Auto & transportation",2012,697.06,23,6,30,3,2020
+"Anchorage Digital",3,"12/15/2021","United States","San Francisco","Fintech",2017,487,28,1,15,12,2021
+"Inxeption",3,"1/13/2022","United States","San Francisco","Fintech",2017,486.5,5,1,13,1,2022
+"Lattice",3,"3/23/2021","United States","San Francisco","Internet software & services",2015,329.32,17,6,23,3,2021
+"Flutterwave",3,"3/9/2021","United States","San Francisco","Fintech",2016,474.71,41,5,9,3,2021
+"Amber Group",3,"6/21/2021","Hong Kong","Fintech","Tiger Global Management, Tiger Brokers, DCM Ventures",2015,328,18,3,21,6,2021
+"Kraken",2.92,"6/25/2019","United States","San Francisco","Fintech",2011,18.57,11,1,25,6,2019
+"Ovo",2.9,"3/14/2019","Indonesia","Jakarta","Fintech",2017,116,3,1,14,3,2019
+"Workrise",2.9,"9/30/2019","United States","Austin","Internet software & services",2014,752.5,16,5,30,9,2019
+"Loft",2.9,"1/3/2020","Brazil","Sao Paulo","E-commerce & direct-to-consumer",2018,788,34,4,3,1,2020
+"BharatPe",2.85,"7/30/2021","India","New Delhi","Fintech",2018,702.25,22,4,30,7,2021
+"DriveWealth",2.85,"8/20/2021","United States","Chatham","Fintech",2012,537.71,13,3,20,8,2021
+"Flink",2.85,"12/1/2021","Germany","Berlin","E-commerce & direct-to-consumer",2021,1042,10,1,1,12,2021
+"Meicai",2.8,"6/22/2016","China","Beijing","Mobile & telecommunications",2014,651.6,9,1,22,6,2016
+"ContentSquare",2.8,"5/25/2021","France","Paris","Internet software & services",2012,812,11,3,25,5,2021
+"Zipline",2.8,"5/20/2019","United States","South San Francisco","Supply chain, logistics, & delivery",2014,487.16,37,4,20,5,2019
+"Graphcore",2.77,"12/18/2018","United Kingdom","Bristol","Artificial intelligence",2016,682,29,5,18,12,2018
+"Illumio",2.75,"4/14/2015","United States","Sunnyvale","Cybersecurity",2013,557.15,18,5,14,4,2015
+"Convoy",2.75,"9/21/2018","United States","Seattle","Supply chain, logistics, & delivery",2015,675.46,43,4,21,9,2018
+"MasterClass",2.75,"5/13/2021","United States","San Francisco","Edtech",2015,461.4,31,4,13,5,2021
+"Dream Games",2.75,"6/30/2021","Turkey","Istanbul","Mobile & telecommunications",2019,467.2,6,3,30,6,2021
+"Transmit Security",2.74,"6/22/2021","Israel","Tel Aviv","Cybersecurity",2014,583,11,1,22,6,2021
+"Hozon Auto",3.95,"10/25/2021","China","Shanghai","Auto & transportation",2014,3146,13,2,25,10,2021
+"Tradeshift",2.7,"5/30/2018","United States","San Francisco","Fintech",2009,1103,28,9,30,5,2018
+"Nextiva",2.7,"9/14/2021","United States","Scottsdale","Internet software & services",2008,207.5,2,1,14,9,2021
+"o9 Solutions",2.7,"4/28/2020","United States","Dallas","Artificial intelligence",2009,420,3,2,28,4,2020
+"ManoMano",2.6,"7/5/2021","France","Paris","E-commerce & direct-to-consumer",2013,708.73,12,3,5,7,2021
+"Sourcegraph",2.62,"7/13/2021","United States","San Francisco","Internet software & services",2013,223,8,2,13,7,2021
+"Pendo",2.6,"10/17/2019","United States","Raleigh","Internet software & services",2013,359.17,18,4,17,10,2019
+"Plume",2.6,"2/23/2021","United States","Palo Alto","Internet software & services",2015,712.93,15,6,23,2,2021
+"Moglix",2.6,"5/17/2021","Singapore","E-commerce & direct-to-consumer","Jungle Ventures, Accel, Venture Highway",2015,470.71,16,6,17,5,2021
+"Xinchao Media",2,"4/9/2018","China","Chengdu","Internet software & services",2007,1330,8,4,9,4,2018
+"JumpCloud",2.62,"9/13/2021","United States","Louisville","Data management & analytics",2012,418.45,20,4,13,9,2021
+"Vista Global",2.5,"8/23/2017","United Arab Emirates","Dubai","Other",2004,418.45,20,4,23,8,2017
+"BYTON",2.5,"4/20/2018","China","Nanjing","Auto & transportation",2016,1208,11,3,20,4,2018
+"Acronis",2.5,"9/18/2019","Switzerland","Schaffhausen","Cybersecurity",2003,427.51,8,2,18,9,2019
+"Side",2.5,"3/22/2021","United States","San Francisco","Internet software & services",2017,262.82,10,2,22,3,2021
+"Lenskart",2.5,"12/20/2019","India","Faridabad","E-commerce & direct-to-consumer",2008,675.9,18,9,20,12,2019
+"Infra.Market",2.5,"2/25/2021","India","Thane","E-commerce & direct-to-consumer",2016,381.4,26,2,25,2,2021
+"Varo Bank",2.5,"9/9/2021","United States","San Francisco","Fintech",2015,991.33,14,3,9,9,2021
+"Cato Networks",2.5,"11/17/2020","Israel","Tel Aviv","Cybersecurity",2015,512,10,4,17,11,2020
+"Aura",2.5,"6/9/2021","United States","Burlington","Cybersecurity",2019,561.82,6,2,9,6,2021
+"Vercel",2.5,"6/23/2021","United States","San Francisco","Internet software & services",2015,313,16,2,23,6,2021
+"Sysdig",2.5,"4/28/2021","United States","San Francisco","Cybersecurity",2013,728.2,12,4,28,4,2021
+"Zetwerk",2.5,"8/20/2021","India","Bengaluru","Internet software & services",2018,656.67,24,3,20,8,2021
+"Uniphore",2.5,"2/16/2022","United States","Palo Alto","Artificial Intelligence",2008,626.63,25,3,16,2,2022
+"Somatus",2.5,"2/23/2022","United States","McLean","Health",2016,465,14,3,23,2,2022
+"Uala",2.45,"8/13/2021","Argentina","Buenos Aires","Fintech",2017,608,21,4,13,8,2021
+"Mobile Premier League",2.45,"9/15/2021","India","Bengaluru","Internet software & services",2018,377.7,30,3,15,9,2021
+"Cybereason",2.44,"8/6/2019","United States","Boston","Cybersecurity",2012,713.62,8,5,6,8,2019
+"Cgtz",2.41,"2/21/2017","China","Hangzhou","Fintech",2014,535.86,4,1,21,2,2017
+"Star Charge",2.41,"5/19/2021","China","Changzhou","Auto & transportation",2014,125.58,9,1,19,5,2021
+"Carbon",2.4,"8/20/2015","United States","Redwood City","Hardware",2013,692,24,5,20,8,2015
+"PolicyBazaar",2.4,"5/6/2019","India","Gurgaon","Fintech",2008,633.78,22,7,6,5,2019
+"Exabeam",2.4,"6/1/2021","United States","Foster City","Cybersecurity",2013,390,9,5,1,6,2021
+"BitSight Technologies",2.4,"9/13/2021","United States","Boston","Cybersecurity",2013,390,9,5,13,9,2021
+"Trumid",2.4,"7/15/2020","United States","New York","Fintech",2014,711.73,22,5,15,7,2020
+"ABL Space Systems",2.4,"3/25/2021","United States","El Segundo","Other",2017,483.5,9,2,25,3,2021
+"Project44",2.62,"6/1/2021","United States","Chicago","Supply chain, logistics, & delivery",2014,928.8,20,4,1,6,2021
+"Bought By Many",2.35,"6/1/2021","United Kingdom","London","Fintech",2012,477.27,8,3,1,6,2021
+"Jobandtalent",2.35,"12/1/2021","Spain","Madrid","Internet software & services",2009,1072,20,3,1,12,2021
+"WEMAKEPRICE",2.34,"9/9/2015","South Korea","Seoul","E-commerce & direct-to-consumer",2009,486.65,3,4,9,9,2015
+"Biren Technology",2.32,"8/18/2020","China","Shanghai","Hardware",2019,288.22,32,3,18,8,2020
+"Voodoo",2.31,"8/17/2020","France","Paris","Other",2013,569.95,3,2,17,8,2020
+"Uptake",2.3,"10/27/2015","United States","Chicago","Artificial intelligence",2014,317,8,4,27,10,2015
+"KeepTruckin",2.3,"4/23/2019","United States","San Francisco","Supply chain, logistics, & delivery",2013,417.3,8,5,23,4,2019
+"Skydance Media",2.3,"2/11/2020","United States","Santa Monica","Other",2010,2075,4,1,11,2,2020
+"Greenlight",2.3,"9/24/2020","United States","Atlanta","Fintech",2014,556.5,22,3,24,9,2020
+"Bowery Farming",2.3,"5/25/2021","United States","New York","Other",2015,630.9,31,2,25,5,2021
+"Odoo",2.3,"7/29/2021","Belgium","Louvain-la-Neuve","Internet software & services",2005,319,6,1,29,7,2021
+"MoMo",2.27,"12/10/2021","Vietnam","Ho Chi Minh City","Fintech",2013,433.7,10,3,10,12,2021
+"Ankorstore",2.26,"1/10/2022","France","Paris","E-commerce & direct-to-consumer",2019,420.89,9,1,10,1,2022
+"Zume",2.25,"11/1/2018","United States","Mountain View","Consumer & retail",2015,445.69,6,3,1,11,2018
+"Algolia",2.25,"7/28/2021","United States","San Francisco","Internet software & services",2012,334.34,28,3,28,7,2021
+"Pattern",2.25,"10/6/2021","United States","Lehi","Internet software & services",2013,277,5,1,6,10,2021
+"MUSINSA",2.2,"11/11/2019","South Korea","Seoul","E-commerce & direct-to-consumer",2001,286.36,2,2,11,11,2019
+"Current",2.2,"4/27/2021","United States","New York","Fintech",2015,383.41,18,3,27,4,2021
+"Bitso",2.2,"5/5/2021","Mexico","Mexico City","Fintech",2014,314.66,22,2,5,5,2021
+"Gympass",2.2,"6/12/2019","United States","New York","Internet software & services",2012,529.16,10,2,12,6,2019
+"Reify Health",2.2,"8/10/2021","United States","Boston","Health",2012,257.64,8,2,10,8,2021
+"Dialpad",2.2,"10/6/2020","United States","San Francisco","Internet software & services",2011,425.96,15,7,6,10,2020
+"G7 Networks",2.2,"2/15/2022","China","Beijing","Supply chain, logistics, & delivery",2006,710,17,1,15,2,2022
+"BloomReach",2.2,"2/23/2022","United States","Mountain View","Artificial intelligence",2009,422,8,6,23,2,2022
+"Huaqin Telecom Technology",2.19,"10/8/2019","China","Shanghai","Mobile & telecommunications",2005,276.35,16,1,8,10,2019
+"Accelerant",2.19,"1/12/2022","United Kingdom","Colchester","Other",2018,190,5,1,12,1,2022
+"Hesai Tech",2.18,"8/1/2020","China","Shanghai","Artificial intelligence",2013,717.29,20,3,1,8,2020
+"YITU Technology",2.17,"3/8/2018","China","Shanghai","Artificial intelligence",2012,385.12,11,1,8,3,2018
+"Addepar",2.17,"6/15/2021","United States","Mountain View","Fintech",2009,513.93,18,5,15,6,2021
+"Neo4j",2.15,"6/17/2021","United States","San Mateo","Data management & analytics",2007,581.1,18,4,17,6,2021
+"CloudWalk",2.15,"9/8/2021","Brazil","Sao Paulo","Fintech",2013,345,14,1,8,9,2021
+"FirstCry",2.1,"2/7/2020","India","Pune","E-commerce & direct-to-consumer",2010,831,15,6,7,2,2020
+"Eightfold.ai",2.1,"10/27/2020","United States","Santa Clara","Internet software & services",2016,397,6,3,27,10,2020
+"Webflow",2.1,"1/13/2021","United States","San Francisco","Internet software & services",2012,214.92,9,2,13,1,2021
+"Urban Company",2.1,"4/27/2021","India","Gurgaon","E-commerce & direct-to-consumer",2014,441.24,17,7,27,4,2021
+"Moveworks",2.1,"6/30/2021","United States","Mountain View","Artificial intelligence",2016,305,11,1,30,6,2021
+"Medable",2.1,"10/26/2021","United States","Palo Alto","Internet software & services",2013,533.75,13,2,26,10,2021
+"SoundHound",2.1,"5/3/2018","United States","Santa Clara","Artificial intelligence",2005,214.1,24,8,3,5,2018
+"GoCardless",2.1,"2/8/2022","United Kingdom","London","Fintech",2011,529.32,16,4,8,2,2022
+"Trendy Group International",2,"2/13/2012","Hong Kong","Kowloon","Consumer & retail",1999,200,1,1,13,2,2012
+"Avant",2,"12/17/2012","United States","Chicago","Artificial intelligence",1973,1730,14,6,17,12,2012
+"BlaBlaCar",2,"9/16/2015","France","Paris","Auto & transportation",2006,564.3,13,6,16,9,2015
+"HuiMin",2,"9/5/2016","China","Beijing","E-commerce & direct-to-consumer",2013,519.63,13,1,5,9,2016
+"Quora",2,"4/21/2017","United States","Mountain View","Internet software & services",2009,286,10,5,21,4,2017
+"Improbable",2,"5/11/2017","United Kingdom","London","Other",2012,603.93,7,4,11,5,2017
+"Preferred Networks",2,"5/17/2018","Japan","Tokyo","Artificial intelligence",2014,152.19,11,2,17,5,2018
+"Formlabs",2,"8/1/2018","United States","Somerville","Hardware",2011,261.25,24,6,1,8,2018
+"4Paradigm",2,"12/19/2018","China","Beijing","Artificial intelligence",2015,930,39,2,19,12,2018
+"Calm",2,"2/6/2019","United States","San Francisco","Consumer & retail",2012,217.98,28,4,6,2,2019
+"Kaseya",2,"3/27/2019","United States","Miami","Cybersecurity",2000,617.57,3,1,27,3,2019
+"Mafengwo",2,"5/23/2019","China","Beijing","Travel",2010,488,13,1,23,5,2019
+"Druva",2,"6/20/2019","United States","Sunnyvale","Data management & analytics",2007,475,16,4,20,6,2019
+"Kujiale",2,"10/25/2019","China","Hangzhou","Internet software & services",2011,312,15,5,25,10,2019
+"AppsFlyer",2,"1/21/2020","United States","San Francisco","Mobile & telecommunications",2011,303.1,8,4,21,1,2020
+"Keep",2,"5/19/2020","China","Beijing","Mobile & telecommunications",2014,614.49,11,2,19,5,2020
+"Redis Labs",2,"8/25/2020","United States","Mountain View","Data management & analytics",2011,355,13,5,25,8,2020
+"Xingyun Group",2,"9/24/2020","China","Shenzhen","E-commerce & direct-to-consumer",2015,953.5,29,1,24,9,2020
+"Unqork",2,"10/6/2020","United States","New York","Fintech",2017,367.17,14,1,6,10,2020
+"Virta Health",2,"12/2/2020","United States","San Francisco","Health",2015,376.5,15,3,2,12,2020
+"Earnix",2,"2/21/2021","Israel","Giv'atayim","Fintech",2001,98.5,6,2,21,2,2021
+"Guoquan Shihui",2,"3/17/2021","China","Shanghai","Consumer & retail",2017,423.44,9,2,17,3,2021
+"Arrail Dental",1.05,"4/13/2021","China","Beijing","Health",1999,449,15,7,13,4,2021
+"Clearco",2,"4/20/2021","Canada","Toronto","Fintech",2015,935.01,23,1,20,4,2021
+"Hive",2,"4/21/2021","United States","San Francisco","Artificial intelligence",2013,85,5,1,21,4,2021
+"KRY",2,"4/27/2021","Sweden","Stockholm","Health",2014,570.99,10,3,27,4,2021
+"Kajabi",2,"5/4/2021","United States","Irvine","Internet software & services",2010,550,6,1,4,5,2021
+"PayFit",2.1,"1/6/2022","United Kingdom","London","Fintech",2016,497.24,13,3,6,1,2022
+"Beisen",2,"5/11/2021","China","Beijing","Internet software & services",2002,421.18,18,2,11,5,2021
+"Pipe",2,"5/19/2021","United States","Miami","Fintech",2019,366,36,1,19,5,2021
+"Iterable",2,"6/15/2021","United States","San Francisco","Internet software & services",2013,342.4,18,4,15,6,2021
+"Bunq",2,"6/18/2021","Netherlands","Amsterdam","Fintech",2013,228,1,1,18,6,2021
+"Clip",2,"6/10/2021","Mexico","Mexico City","Fintech",2012,397.36,15,4,10,6,2021
+"Loggi",2,"6/5/2019","Brazil","Sao Paulo","Supply chain, logistics, & delivery",2013,484.32,15,4,5,6,2019
+"MURAL",2,"7/20/2021","United States","San Francisco","Internet software & services",2011,192.27,15,5,20,7,2021
+"Pagaya",2,"6/17/2020","Israel","Tel Aviv","Fintech",2015,417.25,15,3,17,6,2020
+"OCSiAl",2,"3/4/2019","Luxembourg","Leudelange","Other",2012,5,3,2,4,3,2019
+"XtalPi",2,"8/11/2021","China","Shenzhen","Artificial intelligence",2014,783.81,30,3,11,8,2021
+"Divvy Homes",2,"8/13/2021","United States","San Francisco","Fintech",2017,1127,16,1,13,8,2021
+"Apeel Sciences",2,"5/26/2020","United States","Goleta","Other",2012,640,25,6,26,5,2020
+"Opay",2,"8/23/2021","Nigeria","Lagos","Fintech",2018,570,13,1,23,8,2021
+"Aviatrix",2,"9/8/2021","United States","Santa Clara","Internet software & services",2014,340,12,4,8,9,2021
+"SmartNews",2,"8/5/2019","Japan","Tokyo","Mobile & telecommunications",2012,409.6,20,7,5,8,2019
+"Misfits Market",2,"4/21/2021","United States","Pennsauken","E-commerce & direct-to-consumer",2018,526.5,9,2,21,4,2021
+"Spring Health",2,"9/16/2021","United States","New York","Health",2016,296.2,25,3,16,9,2021
+"Black Sesame Technologies",2,"9/22/2021","China","Shanghai","Artificial intelligence",2016,115,18,1,22,9,2021
+"Advance Intelligence Group",2,"9/23/2021","Singapore","Artificial intelligence","Vision Plus Capital, GSR Ventures, ZhenFund",2016,536,13,1,23,9,2021
+"Modern Treasury",2,"10/6/2021","United States","San Francisco","Fintech",2018,133.12,5,1,6,10,2021
+"Magic Leap",2,"10/21/2014","United States","Plantation","Hardware",2010,3484,26,7,21,10,2014
+"Tier",2,"10/25/2021","Germany","Berlin","Travel",2018,667.38,20,2,25,10,2021
+"Aiven",2,"10/18/2021","Finland","Helsinki","Internet software & services",2016,209.93,14,2,18,10,2021
+"ClickHouse",2,"10/28/2021","United States","Portola Valley","Data management & analytics",2021,300,11,1,28,10,2021
+"Mynt",2,"10/28/2021","Philippines","Taguig City","Fintech",2015,475,7,1,28,10,2021
+"Everlaw",2,"11/2/2021","United States","Oakland","Internet software & services",2010,314.61,7,5,2,11,2021
+"Zilch",2,"11/10/2021","United Kingdom","London","Fintech",2018,339.2,6,2,10,11,2021
+"VerbIT",2,"6/8/2021","United States","New York","Artificial intelligence",2016,532,23,2,8,6,2021
+"StarkWare",2,"11/17/2021","Israel","Netanya","Cybersecurity",2018,167.7,20,1,17,11,2021
+"Deliverr",2,"11/22/2021","United States","San Francisco","Supply chain, logistics, & delivery",2017,490.1,10,2,22,11,2021
+"SWORD Health",2,"11/22/2021","United States","New York","Health",2015,322.16,20,2,22,11,2021
+"LTK",2,"11/22/2021","United States","Dallas","Internet software & services",2011,315,5,2,22,11,2021
+"Exotec",2,"1/17/2022","France","Croix","Hardware",2015,446.7,7,3,17,1,2022
+"Dremio",2,"1/6/2021","United States","Santa Clara","Data management & analytics",2015,405,9,4,6,1,2021
+"Akulaku",2,"2/15/2022","Indonesia","Jakarta","E-commerce & direct-to-consumer",2014,455,15,3,15,2,2022
+"Fenbi Education",1.95,"2/7/2021","China","Beijing","Edtech",2015,390,8,1,7,2,2021
+"Starling Bank",1.95,"3/8/2021","United Kingdom","London","Fintech",2014,905.62,11,2,8,3,2021
+"Rokt",1.95,"12/16/2021","United States","New York","Internet software & services",2012,488.5,12,4,16,12,2021
+"InVision",1.9,"11/1/2017","United States","New York","Internet software & services",2011,350.71,9,5,1,11,2017
+"MX Technologies",1.9,"1/13/2021","United States","Lehi","Fintech",2010,454.13,31,2,13,1,2021
+"Aledade",1.9,"1/19/2021","United States","Bethesda","Health",2014,294.65,13,2,19,1,2021
+"CoinSwitch Kuber",1.9,"10/6/2021","India","Bangalore","Fintech",2017,300,7,2,6,10,2021
+"ENOVATE",1.85,"4/15/2019","China","Shanghai","Auto & transportation",2015,1333,1,1,15,4,2019
+"CFGI",1.85,"9/15/2021","United States","Boston","Fintech",2000,18.58,2,1,15,9,2021
+"Retool",1.85,"12/22/2021","United States","San Francisco","Internet software & services",2000,18.58,2,1,22,12,2021
+"Automattic",1.8,"5/27/2013","United States","San Francisco","Internet software & services",2005,861.69,22,7,27,5,2013
+"ZocDoc",1.8,"8/20/2015","United States","New York","Health",2007,383.02,15,4,20,8,2015
+"Diamond Foundry",1.8,"3/29/2021","United States","San Francisco","Other",2012,300,16,1,29,3,2021
+"FullStory",1.8,"8/4/2021","United States","Atlanta","Internet software & services",2014,170.2,9,4,4,8,2021
+"Lightricks",1.8,"7/31/2019","Israel","Jerusalem","Artificial intelligence",2013,335,16,3,31,7,2019
+"Opentrons",1.8,"9/23/2021","United States","New York","Hardware",2016,250.83,8,2,23,9,2021
+"AIWAYS",1.78,"4/16/2018","China","Shanghai","Auto & transportation",2017,330.93,10,1,16,4,2018
+"Trulioo",1.75,"6/7/2021","Canada","Vancouver","Cybersecurity",2011,469.74,12,3,7,6,2021
+"Spinny",1.75,"11/24/2021","India","Gurugram","E-commerce & direct-to-consumer",2015,515.9,20,5,24,11,2021
+"Orca Security",1.8,"3/23/2021","United States","Portland","Cybersecurity",2019,632,15,2,23,3,2021
+"Apus Group",1.73,"1/16/2015","China","Beijing","Mobile & telecommunications",2014,116.3,6,2,16,1,2015
+"Harry's",1.7,"2/16/2018","United States","New York","Consumer & retail",2013,659.1,25,5,16,2,2018
+"PAX",1.7,"10/22/2018","United States","San Francisco","Consumer & retail",2007,544.93,10,3,22,10,2018
+"DispatchHealth",1.7,"3/3/2021","United States","Denver","Health",2013,406.96,9,2,3,3,2021
+"Unite Us",1.7,"3/17/2021","United States","New York","Health",2014,195.3,15,3,17,3,2021
+"CircleCI",1.7,"5/11/2021","United States","San Francisco","Internet software & services",2011,312.5,26,3,11,5,2021
+"Vestiaire Collective",1.7,"3/1/2021","France","Paris","E-commerce & direct-to-consumer",2009,664.45,17,4,1,3,2021
+"Dragos",1.7,"10/28/2021","United States","Hanover","Cybersecurity",2016,364.2,13,2,28,10,2021
+"Reltio",1.7,"11/4/2021","United States","Redwood City","Data management & analytics",2011,240.5,9,4,4,11,2021
+"H2O.ai",1.7,"11/7/2021","United States","Mountain View","Artificial intelligence",2011,246.12,21,4,7,11,2021
+"ZenBusiness",1.7,"11/9/2021","United States","Austin","Fintech",2015,275.75,19,1,9,11,2021
+"Carsome",1.7,"7/12/2021","Malaysia","Selangor","E-commerce & direct-to-consumer",2015,597.35,24,5,12,7,2021
+"Productboard",1.7,"2/2/2022","United States","San Francisco","Internet software & services",2014,261.3,13,4,2,2,2022
+"Spotter",1.7,"2/16/2022","United States","Los Angeles","Fintech",2019,220.65,6,1,16,2,2022
+"Alan",1.68,"4/19/2021","France","Paris","Fintech",2016,363.17,13,2,19,4,2021
+"wefox",1.65,"3/5/2019","Germany","Berlin","Fintech",2014,924.31,36,3,5,3,2019
+"Hibob",1.65,"10/12/2021","Israel","Tel Aviv","Internet software & services",2015,265,15,3,12,10,2021
+"Trader Interactive",1.63,"5/12/2021","United States","Norfolk","Other",2015,265,15,3,12,5,2021
+"Jusfoun Big Data",1.62,"7/9/2018","China","Beijing","Data management & analytics",2010,137.13,27,3,9,7,2018
+"Transcarent",1.62,"1/11/2022","United States","San Francisco","Health",2020,298,15,1,11,1,2022
+"DealShare",1.7,"1/27/2022","India","Bengaluru","E-commerce & direct-to-consumer",2018,391.52,19,4,27,1,2022
+"solarisBank",1.65,"7/13/2021","Germany","Berlin","Fintech",2016,402.46,20,5,13,7,2021
+"Infinidat",1.6,"4/29/2015","United States","Waltham","Hardware",2011,325,6,3,29,4,2015
+"Afiniti",1.6,"4/14/2017","Bermuda","Hamilton","Artificial intelligence",2006,327.2,10,3,14,4,2017
+"Cao Cao Mobility",1.6,"1/17/2018","China","Hangzhou","Auto & transportation",2015,968.86,5,1,17,1,2018
+"Verkada",1.6,"1/29/2020","United States","San Mateo","Cybersecurity",2016,139.64,7,3,29,1,2020
+"Clari",2.6,"3/3/2021","United States","Sunnyvale","Internet software & services",2012,496,15,4,3,3,2021
+"Tonal",1.6,"3/31/2021","United States","San Francisco","E-commerce & direct-to-consumer",2015,431.4,27,2,31,3,2021
+"Clio",1.6,"4/27/2021","Canada","Burnaby","Internet software & services",2008,415.79,10,2,27,4,2021
+"SafetyCulture",1.6,"5/3/2021","Australia","Sydney","Internet software & services",2004,222.81,12,6,3,5,2021
+"Extend",1.6,"5/18/2021","United States","San Francisco","Fintech",2004,222.81,12,6,18,5,2021
+"Cognite",1.5,"5/19/2021","Norway","Lysaker","Data management & analytics",2016,346.8,5,3,19,5,2021
+"ASAPP",1.6,"5/19/2021","United States","New York","Artificial intelligence",2014,312.57,13,2,19,5,2021
+"SmartHR",1.6,"6/8/2021","Japan","Tokyo","Fintech",2013,222.34,20,3,8,6,2021
+"Mercury",1.6,"7/3/2021","United States","San Francisco","Fintech",2019,150.93,39,2,3,7,2021
+"HomeLight",1.6,"9/2/2021","United States","San Francisco","Fintech",2012,539.6,19,5,2,9,2021
+"Truepill",1.6,"10/27/2021","United States","Hayward","Health",2016,256.06,12,2,27,10,2021
+"ezCater",1.6,"4/2/2019","United States","Boston","Supply chain, logistics, & delivery",2007,420.16,21,9,2,4,2019
+"Wayflyer",1.6,"2/1/2022","Ireland","Dublin","Fintech",2019,336.2,11,1,1,2,2022
+"Promasidor Holdings",1.59,"11/8/2016","South Africa","Bryanston","Consumer & retail",1979,556,2,1,8,11,2016
+"Baiwang",1.55,"3/25/2019","China","Beijing","Fintech",2015,224.35,8,1,25,3,2019
+"Iluvatar CoreX",1.55,"3/1/2021","China","Shanghai","Hardware",2015,185.52,8,1,1,3,2021
+"Wenheyou",1.55,"4/17/2021","China","Hunan","Other",2013,92.44,7,2,17,4,2021
+"Loom",1.53,"5/20/2021","United States","San Francisco","Internet software & services",2016,198.48,15,2,20,5,2021
+"Ximalaya FM",1.52,"9/22/2017","China","Shanghai","Mobile & telecommunications",2012,70.59,11,2,22,9,2017
+"Mu Sigma",1.5,"2/7/2013","United States","Northbrook","Data management & analytics",2004,208,8,4,7,2,2013
+"TuJia",1.5,"6/17/2015","China","Beijing","Travel",2011,763.7,13,2,17,6,2015
+"Mofang Living",1.5,"4/13/2016","China","Shanghai","E-commerce & direct-to-consumer",2009,710,4,1,13,4,2016
+"Gett",1.5,"5/24/2016","United Kingdom","London","Auto & transportation",2010,1057,11,9,24,5,2016
+"DT Dream",1.5,"6/8/2017","China","Hangzhou","Data management & analytics",2015,260.35,5,2,8,6,2017
+"XiaoZhu",1.5,"11/1/2017","China","Beijing","Travel",2012,500,12,1,1,11,2017
+"JOLLY Information Technology",1.5,"5/29/2018","China","Hangzhou","E-commerce & direct-to-consumer",2008,100.12,10,1,29,5,2018
+"Yijiupi",1.5,"9/20/2018","China","Beijing","Consumer & retail",2014,547.27,13,3,20,9,2018
+"Collective Health",1.5,"6/17/2019","United States","San Francisco","Fintech",2013,714,27,4,17,6,2019
+"Strava",1.5,"11/16/2020","United States","San Francisco","Internet software & services",2009,179.85,7,6,16,11,2020
+"Zenoti",1.5,"12/15/2020","United States","Bellevue","Internet software & services",2010,341.68,9,4,15,12,2020
+"K Health",1.5,"1/19/2021","United States","New York","Health",2016,278,19,1,19,1,2021
+"ID.me",1.5,"3/19/2021","United States","McLean","Cybersecurity",2010,273.07,31,3,19,3,2021
+"Snapdocs",1.5,"5/25/2021","United States","San Francisco","Fintech",2012,250,13,1,25,5,2021
+"Chipper Cash",2,"6/1/2021","United States","San Francisco","Fintech",2017,302.6,15,3,1,6,2021
+"Ledger",1.5,"6/10/2021","France","Paris","Hardware",2014,466.38,46,4,10,6,2021
+"Next Silicon",1.5,"6/14/2021","Israel","Tel Aviv","Hardware",2018,226.6,9,1,14,6,2021
+"YunQuNa",1.5,"6/29/2021","China","Shanghai","Supply chain, logistics, & delivery",2015,342.37,10,1,29,6,2021
+"Impact",1.5,"7/13/2021","United States","Santa Barbara","Internet software & services",2008,274.15,6,2,13,7,2021
+"SmartRecruiters",1.5,"7/20/2021","United States","San Francisco","Internet software & services",2010,214.55,7,4,20,7,2021
+"NotCo",1.5,"7/26/2021","Chile","Santiago","Artificial Intelligence",2015,395.84,18,1,26,7,2021
+"Culture Amp",1.5,"7/29/2021","Australia","Richmond","Internet software & services",2011,258.3,12,4,29,7,2021
+"TaxBit",1.5,"8/4/2021","United States","Draper","Fintech",2018,235.75,21,1,4,8,2021
+"Pacaso",1.5,"3/24/2021","United States","Cincinnati","Fintech",2020,1467,16,2,24,3,2021
+"1047 Games",1.5,"9/14/2021","United States","Zephyr Cove","Internet software & services",2017,126.5,10,1,14,9,2021
+"Matillion",1.5,"9/15/2021","United Kingdom","Altrincham","Data management & analytics",2011,310.32,8,2,15,9,2021
+"Persona",1.5,"9/15/2021","United States","San Francisco","Cybersecurity",2018,217.5,6,1,15,9,2021
+"Whatnot",1.5,"9/16/2021","United States","Marina del Rey","E-commerce & direct-to-consumer",2019,224.15,22,1,16,9,2021
+"Ascend Money",1.5,"9/27/2021","Thailand","Bangkok","Fintech",2013,150,3,1,27,9,2021
+"Andela",1.5,"9/29/2021","United States","New York","Internet software & services",2014,374.61,29,4,29,9,2021
+"Built",1.5,"9/30/2021","United States","Nashville","Internet software & services",2015,268.12,22,3,30,9,2021
+"candy.com",1.5,"10/21/2021","United States","New York","Fintech",2021,100,9,1,21,10,2021
+"Devo",1.5,"10/26/2021","United States","Cambridge","Data management & analytics",2011,381,10,3,26,10,2021
+"CoinList",1.5,"10/15/2021","United States","San Francisco","Fintech",2017,169.2,21,2,15,10,2021
+"Lusha",1.5,"11/10/2021","United States","New York","Internet software & services",2016,245,2,1,10,11,2021
+"CureFit",1.5,"11/10/2021","India","Bengaluru","Health",2016,679.4,42,5,10,11,2021
+"Solugen",1.5,"9/10/2021","United States","Houston","Other",2016,443.07,20,1,10,9,2021
+"Olist",1.5,"12/15/2021","Brazil","Curitiba","E-commerce & direct-to-consumer",2015,318.75,13,2,15,12,2021
+"Paradox",1.5,"12/27/2021","United States","Scottsdale","Internet software & services",2016,253.46,14,1,27,12,2021
+"Airbyte",1.5,"12/17/2021","United States","San Francisco","Internet software & services",2020,181.35,14,1,17,12,2021
+"StoreDot",1.5,"1/4/2022","Israel","Herzliya","Other",2012,206,14,4,4,1,2022
+"Il Makiage",1.5,"1/10/2022","United States","New York","E-commerce & direct-to-consumer",2018,29,5,1,10,1,2022
+"Spendesk",1.5,"1/18/2022","France","Paris","Fintech",2015,300.34,14,2,18,1,2022
+"Veriff",1.5,"1/26/2022","Estonia","Tallinn","Artificial intelligence",2015,192.32,15,2,26,1,2022
+"Athelas",1.5,"1/31/2022","United States","Mountain View","Health",2016,136.08,11,1,31,1,2022
+"ElasticRun",1.5,"2/7/2022","India","Pune","Supply chain, logistics, & delivery",2016,432.11,9,4,7,2,2022
+"Veho",1.5,"12/21/2021","United States","Boulder","Supply chain, logistics, & delivery",2016,299.28,12,2,21,12,2021
+"Temporal",1.5,"2/16/2022","United States","Bellevue","Internet software & services",2019,121.75,5,1,16,2,2022
+"Fabric",1.5,"2/24/2022","United States","Bellevue","E-commerce & direct-to-consumer",2017,292.58,11,2,24,2,2022
+"Coocaa",1.45,"3/16/2018","China","Shenzhen","Hardware",2006,226.6,4,3,16,3,2018
+"Gymshark",1.45,"8/14/2020","United Kingdom","Solihull","E-commerce & direct-to-consumer",2012,300,1,1,14,8,2020
+"Zeta",1.45,"5/24/2021","United States","San Francisco","Fintech",2015,303,5,3,24,5,2021
+"M1 Finance",1.45,"7/14/2021","United States","Chicago","Fintech",2015,328.17,7,3,14,7,2021
+"Aleo",1.45,"2/7/2022","United States","San Francisco","Cybersecurity",2019,228,18,1,7,2,2022
+"Einride",1.44,"12/31/2021","Sweden","Stockholm","Auto & transportation",2016,150.82,20,4,31,12,2021
+"Justworks",1.43,"1/28/2020","United States","New York","Internet software & services",2012,143,9,3,28,1,2020
+"Papa",1.4,"11/4/2021","United States","Miami","Health",2016,242.05,14,1,4,11,2021
+"Figment",1.4,"12/20/2021","Canada","Toronto","Internet software & services",2018,163.84,24,2,20,12,2021
+"Envoy",1.4,"1/11/2022","United States","San Francisco","Internet software & services",2013,203.5,15,2,11,1,2022
+"Deliverect",1.4,"1/24/2022","Belgium","Ghent","Fintech",2018,235.89,8,1,24,1,2022
+"SparkCognition",1.4,"1/25/2022","United States","Austin","Artificial intelligence",2013,290.88,34,4,25,1,2022
+"Firebolt",1.4,"1/26/2022","Israel","Tel Aviv","Data management & analytics",2019,264,9,1,26,1,2022
+"Koudai",1.4,"10/23/2014","China","Beijing","E-commerce & direct-to-consumer",2010,362,11,1,23,10,2014
+"Symphony",1.4,"5/16/2017","United States","New York","Fintech",2014,461,26,4,16,5,2017
+"Cabify",1.4,"1/22/2018","Spain","Madrid","Auto & transportation",2011,481.47,22,4,22,1,2018
+"Hive Box",1.4,"1/23/2018","China","Shenzhen","Supply chain, logistics, & delivery",2015,1240,16,2,23,1,2018
+"Deezer",1.4,"8/2/2018","France","Paris","Internet software & services",2007,481.8,11,3,2,8,2018
+"Away",1.4,"5/15/2019","United States","New York","E-commerce & direct-to-consumer",2015,181.1,11,4,15,5,2019
+"Kong",1.4,"12/31/2020","United States","San Francisco","Internet software & services",2007,170.5,17,3,31,12,2020
+"Epidemic Sound",1.4,"3/11/2021","Sweden","Stockholm","Internet software & services",2009,476.14,9,6,11,3,2021
+"Yotpo",1.4,"3/18/2021","United States","New York","Internet software & services",2011,436,20,3,18,3,2021
+"Rebel Foods",1.4,"10/7/2021","India","Pune","E-commerce & direct-to-consumer",2011,495.21,18,7,7,10,2021
+"Five Star Business Finance",1.4,"3/26/2021","India","Chennai","Other",1984,459.78,7,4,26,3,2021
+"Stash",1.4,"2/3/2021","United States","New York","Fintech",2015,439.25,13,6,3,2,2021
+"Phenom People",1.4,"4/7/2021","United States","Ambler","Internet software & services",2011,163.02,13,3,7,4,2021
+"GupShup",1.4,"4/8/2021","United States","San Francisco","Internet software & services",2011,163.02,13,3,8,4,2021
+"Degreed",1.4,"4/13/2021","United States","Pleasanton","Edtech",2012,385.92,14,3,13,4,2021
+"Astranis Space Technologies",1.4,"4/14/2021","United States","San Francisco","Mobile & telecommunications",2015,358.07,26,2,14,4,2021
+"Scalable Capital",1.4,"6/8/2021","Germany","Munich","Fintech",2014,314.28,10,4,8,6,2021
+"VideoAmp",1.4,"10/21/2021","United States","Los Angeles","Internet software & services",2014,437.1,18,3,21,10,2021
+"Panther Labs",1.4,"12/2/2021","United States","San Francisco","Cybersecurity",2018,140.38,8,1,2,12,2021
+"Salt Security",1.4,"2/10/2022","United States","Palo Alto","Cybersecurity",2016,270.74,14,2,10,2,2022
+"Tripledot Studios",1.4,"2/14/2022","United Kingdom","London","Mobile & telecommunications",2017,202,5,2,14,2,2022
+"Neon",1.38,"2/14/2022","Brazil","Sao Paulo","Fintech",2016,720.42,16,2,14,2,2022
+"Klook",1.35,"8/7/2018","Hong Kong","Central","Travel",2014,721.19,14,3,7,8,2018
+"Yaoshibang",1.35,"6/15/2021","China","Guangzhou","Health",2015,497.19,15,2,15,6,2021
+"At-Bay",1.35,"7/27/2021","United States","Mountain View","Fintech",2016,292,11,2,27,7,2021
+"Alloy",1.35,"9/30/2021","United States","New York","Fintech",2015,155.92,12,1,30,9,2021
+"Epirus",1.35,"2/14/2022","United States","Hawthorne","Other",2018,287.39,18,1,14,2,2022
+"Signifyd",1.34,"4/15/2021","United States","San Jose","Fintech",2011,411.2,19,7,15,4,2021
+"Motorway",1.33,"11/29/2021","United Kingdom","London","E-commerce & direct-to-consumer",2017,274.59,10,1,29,11,2021
+"RIDI",1.33,"2/28/2022","South Korea","Seoul","E-commerce & direct-to-consumer",2008,331.23,14,5,28,2,2022
+"Flipboard",1.32,"7/22/2015","United States","Palo Alto","Internet software & services",2010,210.5,19,5,22,7,2015
+"Grove Collaborative",1.32,"9/6/2019","United States","San Francisco","E-commerce & direct-to-consumer",2016,453.01,21,5,6,9,2019
+"GPclub",1.32,"10/22/2018","South Korea","Seoul","Other",2003,66.16,1,1,22,10,2018
+"Tongdun Technology",1.32,"4/25/2019","China","Hangzhou","Cybersecurity",2013,361.44,17,5,25,4,2019
+"Athletic Greens",1.32,"1/25/2022","United States","New York","Health",2010,115,33,1,25,1,2022
+"Unisound",1.31,"7/19/2018","China","Beijing","Artificial intelligence",2012,339.11,15,3,19,7,2018
+"Alzheon",1.31,"9/30/2020","United States","Framingham","Health",2013,94.4,4,2,30,9,2020
+"HeartFlow",1.3,"12/4/2017","United States","Redwood City","Health",2007,542.41,12,9,4,12,2017
+"Trax",1.3,"7/22/2019","Singapore","Artificial intelligence","Hopu Investment Management, Boyu Capital, DC Thomson Ventures",2010,1013,10,5,22,7,2019
+"InSightec",1.3,"3/6/2020","Israel","Tirat Carmel","Health",1999,559.05,11,3,6,3,2020
+"Everly Health",1.3,"12/3/2020","United States","Austin","E-commerce & direct-to-consumer",2015,230.55,18,3,3,12,2020
+"Manner",1.3,"12/24/2020","China","Shanghai","Other",2015,11.54,6,2,24,12,2020
+"TalkingData",1.3,"1/6/2021","China","Beijing","Mobile & telecommunications",2013,310,7,1,6,1,2021
+"Konfio",1.3,"9/29/2021","Mexico","Mexico City","Fintech",2013,824.59,16,3,29,9,2021
+"Betterment",1.3,"9/29/2021","United States","New York","Fintech",2010,435,20,7,29,9,2021
+"Flock Freight",1.3,"10/20/2021","United States","Encinitas","Supply chain, logistics, & delivery",2015,399.7,9,2,20,10,2021
+"YugaByte",1.3,"10/28/2021","United States","Sunnyvale","Data management & analytics",2016,290,10,3,28,10,2021
+"Lukka",1.3,"1/14/2022","United States","New York","Fintech",2014,207.3,13,4,14,1,2022
+"TravelPerk",1.3,"1/12/2022","Spain","Barcelona","Travel",2015,408.58,15,3,12,1,2022
+"iTrustCapital",1.3,"1/11/2022","United States","Long Beach","Fintech",2018,125,2,1,11,1,2022
+"Domestika",1.3,"1/27/2022","United States","Berkeley","Internet software & services",2012,200,2,2,27,1,2022
+"CoinTracker",1.3,"1/27/2022","United States","San Francisco","Fintech",2017,101.62,17,1,27,1,2022
+"Loadsmart",1.3,"2/1/2022","United States","New York","Supply chain, logistics, & delivery",2014,345.2,10,2,1,2,2022
+"TUNGEE",1.3,"12/15/2021","China","Guangzhou","Artificial Intelligence",2016,171.05,9,1,15,12,2021
+"Starry",1.29,"7/3/2018","United States","Boston","Mobile & telecommunications",2014,163,7,4,3,7,2018
+"Intercom",1.28,"3/27/2018","United States","San Francisco","Internet software & services",2011,240.25,20,5,27,3,2018
+"OVO Energy",1.28,"2/14/2019","United Kingdom","Bristol","Other",2009,256,2,2,14,2,2019
+"Huisuanzhang",1.28,"5/24/2021","China","Beijing","Fintech",2015,227.34,15,3,24,5,2021
+"BigID",1.25,"12/16/2020","United States","New York","Cybersecurity",2015,246.1,19,4,16,12,2020
+"Kuaikan Manhua",1.25,"12/1/2017","China","Beijing","Internet software & services",2014,595,14,3,1,12,2017
+"Marshmallow",1.25,"9/8/2021","United Kingdom","London","Fintech",2017,116.2,6,2,8,9,2021
+"Honor Technology",1.25,"10/5/2021","United States","San Francisco","Internet software & services",2014,622.12,53,4,5,10,2021
+"Mythical Games",1.25,"11/4/2021","United States","Sherman Oaks","Internet software & services",2018,260,31,1,4,11,2021
+"Incode Technologies",1.25,"12/7/2021","United States","San Francisco","Cybersecurity",2015,255,12,1,7,12,2021
+"Tackle.io",1.25,"12/21/2021","United States","Boise","Internet software & services",2016,155.9,4,1,21,12,2021
+"Flipdish",1.25,"1/13/2022","Ireland","Dublin","Internet software & services",2015,156.34,6,1,13,1,2022
+"Route",1.25,"1/21/2022","United States","Lehi","Supply chain, logistics, & delivery",2018,247,11,1,21,1,2022
+"CaptivateIQ",1.25,"1/26/2022","United States","San Francisco","Fintech",2014,159.12,8,1,26,1,2022
+"BrewDog",1.24,"4/10/2017","United Kingdom","Aberdeen","Consumer & retail",2007,296.77,4,1,10,4,2017
+"Enflame",1.24,"1/5/2021","China","Shanghai","Hardware",2018,470.52,18,1,5,1,2021
+"EQRx",1.23,"1/11/2021","United States","Cambridge","Health",2020,700,8,1,11,1,2021
+"Nexii",1.23,"9/8/2021","Canada","Vancouver","Other",2020,101.97,4,2,8,9,2021
+"Spiber",1.22,"9/8/2021","Japan","Tsuruoka","Other",2007,911.62,22,2,8,9,2021
+"Insider",1.22,"2/28/2022","Turkey","Istanbul","Internet software & services",2012,166.2,9,3,28,2,2022
+"Yiguo",1.2,"11/9/2016","China","Shanghai","Supply chain, logistics, & delivery",2005,800,12,1,9,11,2016
+"Glossier",1.2,"3/19/2019","United States","New York","Consumer & retail",2014,267.4,16,3,19,3,2019
+"Workhuman",1.2,"6/23/2020","Ireland","Dublin","Internet software & services",1999,11.3,3,3,23,6,2020
+"Qumulo",1.2,"7/16/2020","United States","Seattle","Data management & analytics",2012,345.5,12,5,16,7,2020
+"Tealium",1.2,"2/3/2021","United States","San Diego","Internet software & services",2008,263.9,15,8,3,2,2021
+"Public",1.2,"2/17/2021","United States","New York","Fintech",2008,263.9,15,8,17,2,2021
+"Axonius",1.2,"3/1/2021","United States","New York","Cybersecurity",2017,195,14,1,1,3,2021
+"Savage X Fenty",1.2,"3/16/2021","United States","El Segundo","E-commerce & direct-to-consumer",2018,310,9,1,16,3,2021
+"Pipa Coding",1.2,"3/25/2021","China","Beijing","Edtech",2017,267.73,11,2,25,3,2021
+"Aibee",1.2,"4/13/2021","China","Beijing","Artificial intelligence",2017,175.31,22,3,13,4,2021
+"Cava Group",1.3,"4/27/2021","United States","Washington","Other",2010,678.35,8,3,27,4,2021
+"Vectra Networks",1.2,"4/29/2021","United States","San Jose","Artificial intelligence",2011,352.48,15,4,29,4,2021
+"Ada Support",1.2,"5/7/2021","Canada","Toronto","Artificial intelligence",2016,190.73,11,1,7,5,2021
+"Inari",1.2,"5/12/2021","United States","Cambridge","Other",2016,397,10,2,12,5,2021
+"Alation",1.2,"6/3/2021","United States","Redwood City","Internet software & services",2012,192,16,4,3,6,2021
+"Forto",1.2,"6/21/2021","Germany","Berlin","Supply chain, logistics, & delivery",2016,615.83,20,3,21,6,2021
+"SmartMore",1.2,"6/24/2021","China","Shenzhen","Artificial Intelligence",2019,300,10,1,24,6,2021
+"Rohlik",1.2,"7/1/2021","Czech Republic","Prague","Supply chain, logistics, & delivery",2019,300,10,1,1,7,2021
+"Prime Medicine",1.2,"7/13/2021","United States","Cambridge","Health",2019,315,11,1,13,7,2021
+"FloQast",1.2,"7/21/2021","United States","Los Angeles","Fintech",2013,181.5,11,3,21,7,2021
+"MindTickle",1.2,"8/3/2021","United States","San Francisco","Internet software & services",2012,281.3,9,5,3,8,2021
+"UpGrad",1.2,"8/9/2021","India","Mumbai","Edtech",2015,361.23,5,3,9,8,2021
+"DailyPay",1.2,"5/18/2021","United States","New York","Fintech",2016,517.5,8,3,18,5,2021
+"Oda",1.2,"6/2/2021","Norway","Oslo","E-commerce & direct-to-consumer",2013,201.96,10,6,2,6,2021
+"Offchain Labs",1.2,"8/31/2021","United States","Princeton","Internet software & services",2018,123.7,12,1,31,8,2021
+"Copado",1.2,"9/13/2021","United States","Chicago","Data management & analytics",2013,276.05,10,3,13,9,2021
+"Gem",1.2,"9/28/2021","United States","San Francisco","Internet software & services",2017,146,5,1,28,9,2021
+"CarDekho",1.2,"10/13/2021","India","Jaipur","E-commerce & direct-to-consumer",2008,536.1,22,6,13,10,2021
+"MyGlamm",1.2,"11/10/2021","India","Mumbai","E-commerce & direct-to-consumer",2015,283.88,18,6,10,11,2021
+"AgentSync",1.2,"12/7/2021","United States","Denver","Fintech",2018,111.1,12,3,7,12,2021
+"Pristyn Care",1.4,"12/7/2021","India","Gurugram","Health",2018,176.67,16,2,7,12,2021
+"Jokr",1.2,"12/2/2021","United States","New York","E-commerce & direct-to-consumer",2021,430,15,1,2,12,2021
+"Merama",1.2,"12/9/2021","Mexico","Mexico City","E-commerce & direct-to-consumer",2020,445,12,3,9,12,2021
+"SeekOut",1.2,"1/12/2022","United States","Bellevue","Internet software & services",2017,188.2,4,2,12,1,2022
+"BigPanda",1.2,"1/12/2022","United States","Mountain View","Artificial intelligence",2012,292.5,11,4,12,1,2022
+"Phantom",1.2,"1/31/2022","United States","San Francisco","Fintech",2021,118.5,9,1,31,1,2022
+"LivSpace",1.2,"2/8/2022","India","Bengaluru","E-commerce & direct-to-consumer",2015,371.69,21,3,8,2,2022
+"Xpressbees",1.2,"2/9/2022","India","Pune","Supply chain, logistics, & delivery",2012,472.94,13,3,9,2,2022
+"Helium Systems",1.2,"2/22/2022","United States","San Francisco","Internet software & services",2013,251,16,3,22,2,2022
+"CloudBees",1.15,"12/9/2021","United States","San Jose","Data management & analytics",2010,368.26,11,5,9,12,2021
+"L&P Cosmetic",1.19,"1/1/2016","South Korea","Seoul","Consumer & retail",2009,118.64,4,4,1,1,2016
+"Luoji Siwei",1.18,"7/20/2017","China","Beijing","Edtech",2012,188.15,8,2,20,7,2017
+"Yimidida",1.17,"1/14/2019","China","Shanghai","Supply chain, logistics, & delivery",2015,553.61,14,2,14,1,2019
+"Modern Health",1.17,"2/11/2021","United States","San Francisco","Health",2017,168.06,16,1,11,2,2021
+"IRL",1.17,"6/15/2021","United States","San Francisco","Internet software & services",2017,197,12,2,15,6,2021
+"Tuhu",1.16,"9/15/2018","China","Shanghai","Auto & transportation",2011,580.45,19,2,15,9,2018
+"SVOLT",1.16,"6/8/2020","China","Changzhou","Auto & transportation",2018,3207,30,2,8,6,2020
+"LifeMiles",1.15,"7/13/2015","Colombia","Bogota","Other",2011,343.7,1,1,13,7,2015
+"Venafi",1.15,"12/10/2020","United States","Salt Lake City","Cybersecurity",2000,174,13,4,10,12,2020
+"Guideline",1.15,"6/16/2021","United States","San Mateo","Fintech",2015,339,14,4,16,6,2021
+"Rebellion Defense",1.15,"9/16/2021","United States","Washington DC","Artificial intelligence",2019,150,8,1,16,9,2021
+"Happy Money",1.15,"2/8/2022","United States","Tustin","Fintech",2009,444.63,13,6,8,2,2022
+"Doctolib",1.14,"3/19/2019","France","Paris","Health",2013,266.98,12,3,19,3,2019
+"STORD",1.13,"9/13/2021","United States","Atlanta","Supply chain, logistics, & delivery",2015,201.04,20,2,13,9,2021
+"TELD",1.12,"12/16/2019","China","Qingdao","Fintech",2014,193.24,9,1,16,12,2019
+"TangoMe",1.1,"3/20/2014","United States","Mountain View","Mobile & telecommunications",2009,373.44,15,4,20,3,2014
+"AppDirect",1.1,"10/7/2015","United States","San Francisco","E-commerce & direct-to-consumer",2009,558.36,10,5,7,10,2015
+"OVH",1.1,"8/15/2016","France","Roubaix","Other",1999,1243,10,1,15,8,2016
+"Eat Just",1.1,"11/30/2017","United States","San Francisco","Consumer & retail",2011,706.6,34,6,30,11,2017
+"GetYourGuide",1.1,"5/16/2019","Germany","Berlin","Travel",2009,884.79,22,3,16,5,2019
+"Ivalua",1.1,"5/21/2019","United States","Redwood City","Fintech",2000,133,4,1,21,5,2019
+"Sisense",1.1,"1/9/2020","United States","New York","Data management & analytics",2004,278,10,5,9,1,2020
+"Pharmapacks",1.1,"11/12/2020","United States","Islandia","E-commerce & direct-to-consumer",2010,476,10,1,12,11,2020
+"Sennder",1.1,"1/14/2021","Germany","Berlin","Supply chain, logistics, & delivery",2015,310.02,14,3,14,1,2021
+"Nexthink",1.1,"2/8/2021","Switzerland","Prilly","Data management & analytics",2004,329.9,13,2,8,2,2021
+"Zego",1.1,"3/9/2021","United Kingdom","London","Fintech",2016,255.5,9,2,9,3,2021
+"Rightway",1.1,"3/30/2021","United States","New York","Health",2017,130,4,1,30,3,2021
+"Sunbit",1.1,"5/20/2021","United States","Los Angeles","Fintech",2016,197.67,8,1,20,5,2021
+"G2",1.1,"6/22/2021","United States","Chicago","Internet software & services",2012,265.07,20,6,22,6,2021
+"Hailo",1,"6/23/2021","Israel","Tel Aviv","Artificial intelligence",2017,217,18,2,23,6,2021
+"People.ai",1.1,"8/11/2021","United States","San Francisco","Internet software & services",2017,217,18,2,11,8,2021
+"CoinDCX",1.1,"8/10/2021","India","Maharashtra","Fintech",2017,109.4,17,1,10,8,2021
+"Carousell",1.1,"9/15/2021","Singapore","E-commerce & direct-to-consumer","500 Global, Rakuten Ventures, Golden Gate Ventures",2012,443,16,7,15,9,2021
+"apna",1.1,"9/15/2021","India","Bengaluru","Internet software & services",2019,192.5,9,2,15,9,2021
+"Karat",1.1,"10/13/2021","United States","Seattle","Internet software & services",2014,151.6,8,2,13,10,2021
+"Enpal",1.1,"10/18/2021","Germany","Berlin","Internet software & services",2017,750.37,19,2,18,10,2021
+"Acko General Insurance",1.1,"10/18/2021","India","Bengaluru","Fintech",2016,428,22,4,18,10,2021
+"Daily Harvest",1.1,"11/16/2021","United States","New York","E-commerce & direct-to-consumer",2014,120.98,15,2,16,11,2021
+"The Bank of London",1.1,"11/30/2021","United Kingdom","London","Fintech",2018,90,3,1,30,11,2021
+"Fundbox",1.1,"11/30/2021","United States","San Francisco","Fintech",2013,553.5,34,4,30,11,2021
+"Turing",1.1,"12/20/2021","United States","Palo Alto","Internet software & services",2018,136.05,91,1,20,12,2021
+"GlobalBees",1.1,"12/28/2021","India","New Delhi","E-commerce & direct-to-consumer",2021,291.5,8,1,28,12,2021
+"LEAD School",1.1,"1/13/2022","India","Andheri","Edtech",2012,166,6,1,13,1,2022
+"eSentire",1.1,"2/22/2022","Canada","Waterloo","Cybersecurity",2001,287.88,12,2,22,2,2022
+"Beyond Identity",1.1,"2/22/2022","United States","New York","Cybersecurity",2019,205,7,1,22,2,2022
+"Nxin",1.08,"9/18/2018","China","Beijing","Internet software & services",2015,53.05,5,1,18,9,2018
+"UISEE Technology",1.08,"1/25/2021","China","Beijing","Supply chain, logistics, & delivery",2016,154.3,15,1,25,1,2021
+"Rubicon",1.07,"8/25/2017","United States","Atlanta","Other",2008,285.71,17,7,25,8,2017
+"Radius Payment Solutions",1.07,"11/27/2017","United Kingdom","Crewe","Fintech",1990,200.11,1,1,27,11,2017
+"Rivigo",1.07,"7/11/2019","India","Gurgaon","Supply chain, logistics, & delivery",2014,319.89,7,7,11,7,2019
+"Mamaearth",1.07,"12/28/2021","India","Gurgaon","E-commerce & direct-to-consumer",2016,153.3,11,3,28,12,2021
+"Jiuxian",1.05,"7/30/2015","China","Beijing","E-commerce & direct-to-consumer",2009,249.21,8,3,30,7,2015
+"Instabase",1.05,"10/21/2019","United States","San Francisco","Data management & analytics",2015,131.94,9,3,21,10,2019
+"Sendbird",1.05,"4/6/2021","United States","San Mateo","Mobile & telecommunications",2013,219.64,16,2,6,4,2021
+"Density",1.05,"11/10/2021","United States","San Francisco","Hardware",2014,217.2,22,2,10,11,2021
+"Mixpanel",1.05,"11/15/2021","United States","San Francisco","Internet software & services",2009,284.52,10,3,15,11,2021
+"Aprogen",1.04,"5/31/2019","South Korea","Seongnam-Si","Health",2000,62.12,2,3,31,5,2019
+"OrCam Technologies",1.03,"2/20/2018","Israel","Jerusalem","Artificial intelligence",2010,77.4,5,2,20,2,2018
+"Leap Motor",1.01,"11/20/2018","China","Hangzhou","Auto & transportation",2015,1761,20,1,20,11,2018
+"Lookout",1,"10/10/2013","United States","San Francisco","Cybersecurity",2007,281,26,7,10,10,2013
+"Snapdeal",1,"5/21/2014","India","New Delhi","E-commerce & direct-to-consumer",2008,1776,25,7,21,5,2014
+"TechStyle Fashion Group",1,"8/29/2014","United States","El Segundo","E-commerce & direct-to-consumer",2010,300,11,5,29,8,2014
+"InMobi",1,"12/2/2014","India","Bengaluru","Mobile & telecommunications",2007,510.6,8,4,2,12,2014
+"LinkSure Network",1,"1/1/2015","China","Shanghai","Mobile & telecommunications",2013,52,2,1,1,1,2015
+"Red Ventures",1,"1/7/2015","United States","Fort Mill","Other",2000,1050,2,1,7,1,2015
+"BeiBei",1,"1/22/2015","China","Hangzhou","E-commerce & direct-to-consumer",2011,224.4,6,1,22,1,2015
+"Lamabang",1,"3/6/2015","China","Shenzhen","E-commerce & direct-to-consumer",2011,120,6,1,6,3,2015
+"BenevolentAI",1,"6/2/2015","United Kingdom","London","Artificial intelligence",2013,345.55,7,4,2,6,2015
+"FXiaoKe",1,"7/2/2015","China","Beijing","Mobile & telecommunications",2011,293,14,2,2,7,2015
+"Vox Media",1,"8/12/2015","United States","Washington","Internet software & services",2011,324.65,9,8,12,8,2015
+"Mia.com",1,"9/8/2015","China","Beijing","E-commerce & direct-to-consumer",2011,231.6,6,1,8,9,2015
+"58 Daojia",1,"10/12/2015","China","Beijing","Internet software & services",2014,300,3,1,12,10,2015
+"Womai",1,"10/12/2015","China","Beijing","E-commerce & direct-to-consumer",2009,320,5,1,12,10,2015
+"HuJiang",1,"10/29/2015","China","Shanghai","Edtech",2001,223.29,3,1,29,10,2015
+"iTutorGroup",1,"11/18/2015","China","Shanghai","Edtech",1998,315,10,1,18,11,2015
+"MindMaze",1,"1/28/2016","Switzerland","Lausanne","Health",2012,348.5,5,3,28,1,2016
+"iCarbonX",1,"4/12/2016","China","Shenzhen","Artificial intelligence",2015,199,3,1,12,4,2016
+"SMS Assist",1,"6/7/2016","United States","Chicago","Internet software & services",2003,255,3,3,7,6,2016
+"Mobvoi",1,"4/6/2017","China","Beijing","Consumer & retail",2012,259.64,7,1,6,4,2017
+"Zhuan Zhuan",1,"4/18/2017","China","Beijing","E-commerce & direct-to-consumer",2015,990,7,1,18,4,2017
+"Modernizing Medicine",1,"5/10/2017","United States","Boca Raton","Health",2010,393.79,6,4,10,5,2017
+"Zhaogang",1,"6/29/2017","China","Shanghai","E-commerce & direct-to-consumer",2012,361.25,9,2,29,6,2017
+"DianRong",1,"8/2/2017","China","Shanghai","E-commerce & direct-to-consumer",2012,649,16,1,2,8,2017
+"Cell C",1,"8/7/2017","South Africa","Midrand","Mobile & telecommunications",2000,546.97,2,2,7,8,2017
+"YH Global",1,"9/21/2017","China","Shenzhen","Supply chain, logistics, & delivery",1997,182.05,8,1,21,9,2017
+"Revolution Precrafted",1,"10/23/2017","Philippines","Manila","Other",2015,15.4,2,2,23,10,2017
+"WeLab",1,"11/8/2017","Hong Kong","Fintech","Sequoia Capital China, ING, Alibaba Entrepreneurs Fund",2013,896,13,3,8,11,2017
+"Maimai",1,"11/15/2017","China","Beijing","Mobile & telecommunications",2013,300,5,4,15,11,2017
+"Dxy.cn",1,"4/10/2018","China","Hangzhou","Health",2000,672,5,1,10,4,2018
+"Orbbec Technology",1,"5/21/2018","China","Shenzhen","Hardware",2013,200,8,1,21,5,2018
+"HMD Global",1,"5/21/2018","Finland","Espoo","Mobile & telecommunications",2016,330,6,1,21,5,2018
+"Huike Group",1,"5/24/2018","China","Beijing","Edtech",2010,63,4,1,24,5,2018
+"China Cloud",1,"6/11/2018","China","Wuxi","Hardware",2010,522.8,31,1,11,6,2018
+"LinkDoc Technology",1,"7/5/2018","China","Beijing","Health",2014,253.02,10,1,5,7,2018
+"MediaMath",1,"7/10/2018","United States","New York","Internet software & services",2007,613.16,14,6,10,7,2018
+"Pat McGrath Labs",1,"7/16/2018","United States","New York","Consumer & retail",2016,82,2,1,16,7,2018
+"Wacai",1,"7/18/2018","China","Hangzhou","Mobile & telecommunications",2009,368.6,12,2,18,7,2018
+"FlashEx",1,"8/27/2018","China","Beijing","Supply chain, logistics, & delivery",2014,339,22,1,27,8,2018
+"Banma Network Technologies",1,"9/13/2018","China","Shanghai","Auto & transportation",2015,696.76,5,1,13,9,2018
+"Tresata",1,"10/10/2018","United States","Charlotte","Fintech",2011,51.93,2,1,10,10,2018
+"Momenta",1,"10/17/2018","China","Beijing","Artificial intelligence",2016,1283,28,1,17,10,2018
+"Hosjoy",1,"10/18/2018","China","Nanjing","E-commerce & direct-to-consumer",2009,138.53,7,1,18,10,2018
+"Omio",1,"10/23/2018","Germany","Berlin","Travel",2013,396,22,3,23,10,2018
+"TERMINUS Technology",1,"10/25/2018","China","Beijing","Hardware",2015,629.58,8,4,25,10,2018
+"BitFury",1,"11/6/2018","Netherlands","Amsterdam","Hardware",2011,170,22,3,6,11,2018
+"iFood",1,"11/13/2018","Brazil","Osasco","Supply chain, logistics, & delivery",2011,591.86,6,2,13,11,2018
+"Geek+",1,"11/21/2018","China","Beijing","Hardware",2015,433.61,9,1,21,11,2018
+"REEF Technology",1,"12/10/2018","United States","Miami","Supply chain, logistics, & delivery",2015,433.61,9,1,10,12,2018
+"Globality",1,"1/22/2019","United States","Menlo Park","Artificial intelligence",2015,310.3,20,3,22,1,2019
+"Ynsect",1,"2/21/2019","France","Evry","Other",2011,393.4,20,1,21,2,2019
+"Intellifusion",1,"3/22/2019","China","Shenzhen","Artificial intelligence",2014,287.85,36,1,22,3,2019
+"Liquid",1,"4/3/2019","Japan","Tokyo","Fintech",2014,158,8,2,3,4,2019
+"VTS",1,"5/7/2019","United States","New York","Internet software & services",2012,327.18,17,5,7,5,2019
+"KnowBox",1,"5/30/2019","China","Beijing","Edtech",2014,306.16,13,2,30,5,2019
+"Yanolja",1,"6/10/2019","South Korea","Seoul","Travel",2005,2036,11,4,10,6,2019
+"Meero",1,"6/18/2019","France","Paris","Artificial intelligence",2016,297.5,10,3,18,6,2019
+"SumUp",1,"7/16/2019","United Kingdom","London","Fintech",2011,1365,18,2,16,7,2019
+"Ibotta",1,"8/6/2019","United States","Denver","Fintech",2011,95.91,19,3,6,8,2019
+"C2FO",1,"8/7/2019","United States","Leawood","Fintech",2008,539.68,14,7,7,8,2019
+"EBANX",1,"10/16/2019","Brazil","Curitiba","Fintech",2012,460,3,1,16,10,2019
+"KK Group",3,"10/23/2019","China","Dongguan","E-commerce & direct-to-consumer",2014,614.44,15,2,23,10,2019
+"Alto Pharmacy",1,"1/30/2020","United States","San Francisco","Health",2015,588.07,11,2,30,1,2020
+"Hotmart",1,"3/17/2020","Netherlands","Amsterdam","E-commerce & direct-to-consumer",2011,130.3,6,1,17,3,2020
+"Emerging Markets Property Group",1,"4/28/2020","United Arab Emirates","Dubai","Other",2015,279,3,1,28,4,2020
+"Quizlet",1,"5/13/2020","United States","San Francisco","Edtech",2005,62,8,3,13,5,2020
+"Orca Bio",1,"6/17/2020","United States","Menlo Park","Health",2016,192,7,1,17,6,2020
+"Newlink Group",1,"7/10/2020","China","Beijing","E-commerce & direct-to-consumer",2016,978.4,30,1,10,7,2020
+"Infobip",1,"7/30/2020","Croatia","Vodnjan","Mobile & telecommunications",2006,800,3,1,30,7,2020
+"Zwift",1,"9/16/2020","United States","Long Beach","E-commerce & direct-to-consumer",2014,597,13,2,16,9,2020
+"Playco",1,"9/21/2020","Japan","Tokyo","Other",2020,100,9,1,21,9,2020
+"Gousto",1.7,"11/3/2020","United Kingdom","London","Supply chain, logistics, & delivery",2012,361,16,4,3,11,2020
+"Boom Supersonic",1,"12/16/2020","United States","Englewood","Other",2014,247.61,22,2,16,12,2020
+"Qualia",1,"12/21/2020","United States","San Francisco","Fintech",2015,200.18,7,3,21,12,2020
+"Quantum Metric",1,"1/7/2021","United States","Colorado Springs","Data management & analytics",2015,251,6,2,7,1,2021
+"News Break",1,"1/7/2021","United States","Mountain View","Internet software & services",2015,140.23,5,3,7,1,2021
+"MadeiraMadeira",1,"1/7/2021","Brazil","Parana","E-commerce & direct-to-consumer",2009,304.58,10,2,7,1,2021
+"PPRO",1,"1/19/2021","United Kingdom","London","Fintech",2006,370,9,1,19,1,2021
+"Splashtop",1,"1/27/2021","United States","San Jose","Internet software & services",2006,111.5,18,4,27,1,2021
+"DriveNets",1,"1/27/2021","Israel","Ra'anana","Internet software & services",2015,325,10,1,27,1,2021
+"Flash Express",1,"2/1/2021","Thailand","Bangkok","Supply chain, logistics, & delivery",2017,360,10,2,1,2,2021
+"Axiom Space",1,"2/16/2021","United States","Houston","Other",2016,230,12,1,16,2,2021
+"Locus Robotics",1,"2/17/2021","United States","Wilmington","Hardware",2014,315.82,8,3,17,2,2021
+"Standard",1,"2/17/2021","United States","San Francisco","Artificial intelligence",2017,235.62,11,3,17,2,2021
+"Sentry",1,"2/18/2021","United States","San Francisco","Other",2011,126.5,5,3,18,2,2021
+"WeBull",1,"2/18/2021","China","Changsha","Fintech",2016,230.31,7,2,18,2,2021
+"Skydio",1,"2/25/2021","United States","Redwood City","Supply chain, logistics, & delivery",2014,344,12,4,25,2,2021
+"Newsela",1,"2/25/2021","United States","New York","Internet software & services",2013,170.72,32,3,25,2,2021
+"Aqua Security",1,"3/10/2021","Israel","Ramat Gan","Cybersecurity",2015,265,9,3,10,3,2021
+"PatSnap",1,"3/16/2021","Singapore","Internet software & services","Sequoia Capital China, Shunwei Capital Partners, Qualgro",2007,352.32,10,3,16,3,2021
+"Evidation",1,"3/22/2021","United States","San Mateo","Health",2012,259.18,15,4,22,3,2021
+"Sidecar Health",1,"1/26/2021","United States","El Segundo","Fintech",2018,163,10,1,26,1,2021
+"Feedzai",1,"3/24/2021","United States","San Mateo","Artificial intelligence",2009,277.8,10,3,24,3,2021
+"Yunxuetang",1,"3/29/2021","China","Suzhou","Edtech",2011,397.28,9,1,29,3,2021
+"Cameo",1,"3/30/2021","United States","Chicago","Internet software & services",2016,165.71,20,2,30,3,2021
+"Fetch Rewards",1,"3/31/2021","United States","Madison","E-commerce & direct-to-consumer",2014,341.51,12,3,31,3,2021
+"The Zebra",1,"4/12/2021","United States","Austin","E-commerce & direct-to-consumer",2012,255.08,11,5,12,4,2021
+"Clearcover",1,"4/13/2021","United States","Chicago","Fintech",2016,307,10,2,13,4,2021
+"Groq",1,"4/14/2021","United States","Mountain View","Artificial intelligence",2016,362.55,14,3,14,4,2021
+"Fiture",1,"4/14/2021","China","Chengdu","Health",2019,391,15,1,14,4,2021
+"Injective Protocol",1,"4/20/2021","United States","New York","Fintech",2018,13.1,12,1,20,4,2021
+"Sift",1,"4/22/2021","United States","San Francisco","Artificial intelligence",2011,156.52,20,4,22,4,2021
+"Capsule",1,"4/28/2021","United States","New York","Health",2016,570,11,3,28,4,2021
+"MOLOCO",1.5,"4/29/2021","United States","Redwood City","Artificial intelligence",2013,187.57,8,3,29,4,2021
+"Mux",1,"4/30/2021","United States","San Francisco","Internet software & services",2015,173.92,20,2,30,4,2021
+"XForcePlus",1,"6/1/2021","China","Shanghai","Internet software & services",2015,200,12,2,1,6,2021
+"Firefly Aerospace",1.1,"5/4/2021","United States","Cedar Park","Other",2014,100.25,12,3,4,5,2021
+"HoneyBook",1.1,"5/4/2021","United States","San Francisco","Internet software & services",2013,480.34,23,5,4,5,2021
+"Shift Technology",1,"5/5/2021","France","Paris","Artificial intelligence",2014,319.72,11,3,5,5,2021
+"TensTorrent",1,"5/5/2021","Canada","Toronto","Artificial intelligence",2016,221.03,4,1,5,5,2021
+"Zihaiguo",1,"5/6/2021","China","Chongqing","Consumer & retail",2018,64.08,5,2,6,5,2021
+"Forte Labs",1,"5/12/2021","United States","San Francisco","Fintech",2018,64.08,5,2,12,5,2021
+"Axtria",1,"5/13/2021","United States","Berkeley Heights","Data management & analytics",2009,206.32,9,3,13,5,2021
+"Vise",1,"5/18/2021","United States","New York","Fintech",2016,126.55,22,1,18,5,2021
+"Printful",1,"5/24/2021","United States","Charlotte","Other",2016,126.55,22,1,24,5,2021
+"Shippo",1,"6/2/2021","United States","San Francisco","Supply chain, logistics, & delivery",2013,154.03,16,6,2,6,2021
+"Thirty Madison",1,"6/2/2021","United States","New York","Health",1993,8,2,1,2,6,2021
+"LetsGetChecked",1,"6/7/2021","Ireland","Dublin","Health",2015,263,10,2,7,6,2021
+"EcoFlow",1,"6/10/2021","China","Shenzhen","Hardware",2017,110.59,13,1,10,6,2021
+"Carro",1,"6/14/2021","Singapore","E-commerce & direct-to-consumer","SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",2015,684.52,31,4,14,6,2021
+"Tractable",1,"6/16/2021","United Kingdom","London","Artificial intelligence",2014,119.83,10,3,16,6,2021
+"Bringg",1,"6/16/2021","Israel","Tel Aviv","Supply chain, logistics, & delivery",2013,184.5,14,3,16,6,2021
+"Claroty",1,"6/17/2021","United States","New York","Cybersecurity",2015,632,22,3,17,6,2021
+"JoyTunes",1,"6/21/2021","Israel","Tel Aviv","Edtech",2011,91.5,10,3,21,6,2021
+"Aircall",1,"6/23/2021","United States","New York","Internet software & services",2014,225.63,15,3,23,6,2021
+"SmartAsset",1,"6/24/2021","United States","New York","Fintech",2012,157.62,17,4,24,6,2021
+"Morning Consult",1,"6/8/2021","United States","Washington DC","Internet software & services",2014,91,3,2,8,6,2021
+"Visier",1,"6/29/2021","Canada","Vancouver","Internet software & services",2010,216.5,5,3,29,6,2021
+"ShipBob",1,"6/29/2021","United States","Chicago","Supply chain, logistics, & delivery",2014,331.1,13,3,29,6,2021
+"Blinkit",1.01,"6/30/2021","India","Gurgaon","Supply chain, logistics, & delivery",2013,573.82,9,9,30,6,2021
+"Kitopi",1,"7/1/2021","United Arab Emirates","Dubai","Supply chain, logistics, & delivery",2018,502.2,17,1,1,7,2021
+"bolttech",1,"7/1/2021","Singapore","Fintech","Mundi Ventures, Doqling Capital Partners, Activant Capital",2018,502.2,17,1,1,7,2021
+"MobileCoin",1,"7/7/2021","United States","San Francisco","Fintech",2018,108.03,12,1,7,7,2021
+"Lunar",1,"7/12/2021","Denmark","Aarhus","Fintech",2015,371.29,18,1,12,7,2021
+"Amperity",1,"7/13/2021","United States","Seattle","Artificial intelligence",2016,217.3,15,3,13,7,2021
+"Remote",1,"7/13/2021","United States","San Francisco","Fintech",2016,217.3,15,3,13,7,2021
+"GO1",1,"7/19/2021","Australia","Brisbane","Internet software & services",2015,273.25,23,3,19,7,2021
+"Interos",1,"7/22/2021","United States","Arlington","Fintech",2005,132.35,6,1,22,7,2021
+"BlackBuck",1,"7/22/2021","India","Bengaluru","Supply chain, logistics, & delivery",2015,330.88,20,7,22,7,2021
+"NIUM",1,"7/13/2021","Singapore","Fintech","Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",2014,259.1,22,3,13,7,2021
+"Unico",1,"8/3/2021","Brazil","Sao Paulo","Artificial intelligence",2007,235.94,5,1,3,8,2021
+"Human Interest",1,"8/4/2021","United States","San Francisco","Fintech",2015,335.02,26,3,4,8,2021
+"Bluecore",1,"8/5/2021","United States","New York","Artificial intelligence",2013,238.12,8,4,5,8,2021
+"Freshbooks",1,"8/10/2021","Canada","Toronto","Fintech",2004,203.75,9,3,10,8,2021
+"Snorkel AI",1,"8/9/2021","United States","Palo Alto","Artificial intelligence",2019,135,10,1,9,8,2021
+"Gelato",1,"8/16/2021","Norway","Oslo","E-commerce & direct-to-consumer",2007,293.61,9,4,16,8,2021
+"Maven Clinic",1,"8/17/2021","United States","New York","Health",2014,199.47,26,3,17,8,2021
+"Dunamu",1,"7/22/2021","South Korea","Seoul","Fintech",2012,72.44,10,2,22,7,2021
+"Shield AI",1,"8/24/2021","United States","San Diego","Artificial intelligence",2015,345.35,6,2,24,8,2021
+"1KMXC",1,"8/30/2021","China","Hangzhou","Hardware",2014,98.96,8,3,30,8,2021
+"Cider",1,"9/2/2021","Hong Kong","E-commerce & direct-to-consumer","Andreessen Horowitz, DST Global, IDG Capital",2020,131.46,8,2,2,9,2021
+"Berlin Brands Group",1,"9/1/2021","Germany","Berlin","E-commerce & direct-to-consumer",2005,938.71,2,1,1,9,2021
+"Agile Robots",1,"9/9/2021","Germany","Munich","Hardware",2018,350,14,1,9,9,2021
+"GrubMarket",1.2,"9/14/2021","United States","San Francisco","E-commerce & direct-to-consumer",2013,396.06,55,5,14,9,2021
+"Xendit",1,"9/14/2021","Indonesia","Jakarta","Fintech",2014,215.01,8,1,14,9,2021
+"TrueLayer",1,"9/21/2021","United Kingdom","London","Fintech",2016,271.8,17,3,21,9,2021
+"PandaDoc",1,"9/22/2021","United States","San Francisco","Internet software & services",2016,271.8,17,3,22,9,2021
+"Keenon Robotics",1,"9/15/2021","China","Shanghai","Supply chain, logistics, & delivery",2010,228.79,13,1,15,9,2021
+"HAYDON",1,"9/24/2021","China","Shanghai","Consumer & retail",2020,100,2,1,24,9,2021
+"Ninja Van",1,"9/27/2021","Singapore","Supply chain, logistics, & delivery","B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",2014,976.5,15,6,27,9,2021
+"Vedantu",1,"9/29/2021","India","Bengaluru","Edtech",2014,308.38,13,5,29,9,2021
+"TrialSpark",1,"9/30/2021","United States","New York","Health",2014,238.3,14,1,30,9,2021
+"Ajaib",1,"10/4/2021","Indonesia","Jakarta","Fintech",2018,245.22,12,1,4,10,2021
+"Licious",1,"10/5/2021","India","Bengaluru","E-commerce & direct-to-consumer",2015,338,21,5,5,10,2021
+"Masterworks",1,"10/5/2021","United States","New York","Fintech",2017,110,3,1,5,10,2021
+"Chronosphere",1,"10/7/2021","United States","New York","Data management & analytics",2019,255.34,6,1,7,10,2021
+"Solo.io",1,"10/7/2021","United States","Cambridge","Internet software & services",2017,171.85,3,1,7,10,2021
+"Swile",1,"10/11/2021","France","Montpellier","Fintech",2016,328.43,8,2,11,10,2021
+"MobiKwik",1,"10/13/2021","India","Gurugram","Fintech",2009,248.96,31,9,13,10,2021
+"Zopa",1,"10/19/2021","United Kingdom","London","Fintech",2005,671.93,17,2,19,10,2021
+"Dental Monitoring",1,"10/21/2021","France","Paris","Health",2014,210.08,3,1,21,10,2021
+"CargoX",1,"10/21/2021","Brazil","Sao Paulo","Supply chain, logistics, & delivery",2015,377.93,18,3,21,10,2021
+"Augury",1,"10/26/2021","United States","New York","Artificial intelligence",2011,294,13,3,26,10,2021
+"Moka",1,"11/2/2021","China","Beijing","Internet software & services",2015,142.27,8,2,2,11,2021
+"Tezign",1,"11/2/2021","China","Shanghai","Internet software & services",2015,110,14,1,2,11,2021
+"Vagaro",1,"11/3/2021","United States","Dublin","Internet software & services",2009,64.5,2,1,3,11,2021
+"Drata",1,"11/8/2021","United States","San Diego","Cybersecurity",2020,128.2,9,1,8,11,2021
+"Razor",1,"11/8/2021","Germany","Berlin","Consumer & retail",2020,558.71,13,2,8,11,2021
+"OpenWeb",1,"11/9/2021","United States","New York","Internet software & services",2012,213,23,2,9,11,2021
+"Contrast Security",1,"11/9/2021","United States","Los Altos","Cybersecurity",2014,269,11,3,9,11,2021
+"Wrapbook",1,"11/10/2021","United States","New York","Fintech",2018,130.6,8,1,10,11,2021
+"Gaussian Robotics",1.1,"11/10/2021","China","Shanghai","Hardware",2013,287.83,17,1,10,11,2021
+"Mensa Brands",1,"11/16/2021","India","Bengaluru","Other",2021,228.58,13,3,16,11,2021
+"Heyday",1,"11/16/2021","United States","Chicago","E-commerce & direct-to-consumer",2017,6.62,10,1,16,11,2021
+"PLACE",1,"11/17/2021","United States","Bellingham","Internet software & services",2020,100,2,1,17,11,2021
+"Owkin",1,"11/18/2021","United States","New York","Artificial Intelligence",2016,254.1,12,2,18,11,2021
+"Expel",1,"11/18/2021","United States","Herndon","Cybersecurity",2016,257.8,11,3,18,11,2021
+"NoBroker",1,"11/23/2021","India","Bengaluru","Internet software & services",2014,371.4,14,5,23,11,2021
+"Slice",1,"11/28/2021","India","Bengaluru","Fintech",2015,303.73,30,3,28,11,2021
+"Thought Machine",1,"11/29/2021","United Kingdom","London","Fintech",2014,402.05,15,3,29,11,2021
+"Lessen",1,"11/30/2021","United States","Scottsdale","Internet software & services",2019,205,4,1,30,11,2021
+"Clara",1,"12/6/2021","Mexico","Mexico City","Fintech",2020,108.5,14,2,6,12,2021
+"YipitData",1,"12/6/2021","United States","New York","Internet software & services",2008,492.05,15,3,6,12,2021
+"Anyscale",1,"12/7/2021","United States","Berkeley","Artificial Intelligence",2019,160.6,10,1,7,12,2021
+"ReliaQuest",1,"12/1/2021","United States","Tampa","Cybersecurity",2007,330,4,1,1,12,2021
+"Pet Circle",1,"12/7/2021","Australia","Alexandria","E-commerce & direct-to-consumer",2011,126.35,6,1,7,12,2021
+"Nature's Fynd",1,"7/19/2021","United States","Chicago","Other",2012,508.48,20,1,19,7,2021
+"Lydia",1,"12/8/2021","France","Paris","Fintech",2011,260.33,12,3,8,12,2021
+"SellerX",1,"12/9/2021","Germany","Berlin","E-commerce & direct-to-consumer",2020,766.7,13,1,9,12,2021
+"SnapLogic",1,"12/13/2021","United States","San Mateo","Internet software & services",2006,397.86,18,8,13,12,2021
+"Cadence",1,"12/14/2021","United States","New York","Health",2020,141,8,1,14,12,2021
+"Noname Security",1,"12/15/2021","United States","Palo Alto","Cybersecurity",2020,220,7,1,15,12,2021
+"Rothy's",1,"12/21/2021","United States","San Francisco","Consumer & retail",2016,44,6,2,21,12,2021
+"VOI",1,"12/21/2021","Sweden","Stockholm","Travel",2018,517.9,33,3,21,12,2021
+"Haomao.AI",1,"12/22/2021","China","Beijing","Artificial Intelligence",2019,203.91,7,1,22,12,2021
+"Kopi Kenangan",1,"12/27/2021","Indonesia","Jakarta","Consumer & retail",2017,233,13,1,27,12,2021
+"InFarm",1,"12/16/2021","Germany","Berlin","Other",2013,601.59,22,2,16,12,2021
+"ONE",1,"12/8/2021","Singapore","Internet software & services","Temasek, Guggenheim Investments, Qatar Investment Authority",2011,486,11,1,8,12,2021
+"Fractal Analytics",1,"1/5/2022","India","Mumbai","Data management & analytics",2000,688,6,3,5,1,2022
+"Assent Compliance",1,"1/6/2022","Canada","Ottawa","Supply chain, logistics, & delivery",2005,501.64,8,3,6,1,2022
+"CAIS",1,"1/11/2022","United States","New York","Fintech",2009,283,7,2,11,1,2022
+"Placer.ai",1,"1/12/2022","United States","Los Altos","Artificial intelligence",2016,166.34,19,1,12,1,2022
+"Pentera",1,"1/11/2022","Israel","Petah Tikva","Cybersecurity",2015,185,6,1,11,1,2022
+"Darwinbox",1,"1/25/2022","India","Hyderabad","Internet software & services",2015,106.7,10,2,25,1,2022
+"Minio",1,"1/26/2022","United States","Palo Alto","Data management & analytics",2014,126.3,13,2,26,1,2022
+"Fever Labs",1,"1/26/2022","United States","New York","Internet software & services",2012,315.43,26,4,26,1,2022
+"Esusu",1,"1/27/2022","United States","New York","Fintech",2015,144.43,25,1,27,1,2022
+"Betterfly",1,"2/1/2022","Chile","Santiago","Artificial intelligence",2018,202.5,13,1,1,2,2022
+"Dune Analytics",1,"2/2/2022","Norway","Oslo","Data management & analytics",2018,79.42,12,1,2,2,2022
+"Scandit",1,"2/9/2022","Switzerland","Zurich","Supply chain, logistics, & delivery",2009,273,12,3,9,2,2022
+"Payhawk",1,"2/14/2022","United Kingdom","London","Fintech",2018,236.5,15,2,14,2,2022
+"Axelar",1,"2/15/2022","Canada","Waterloo","Internet software & services",2020,63.75,26,1,15,2,2022
+"CHEQ",1,"2/22/2022","United States","New York","Cybersecurity",2014,171,6,2,22,2,2022
+"Hasura",1,"2/22/2022","India","Bengaluru","Internet software & services",2017,136.51,11,1,22,2,2022
+"Timescale",1,"2/22/2022","United States","New York","Internet software & services",2015,181.06,7,2,22,2,2022
+"Scalapay",1,"2/23/2022","Italy","Milan","Fintech",2019,700,10,2,23,2,2022
+"Omada Health",1,"2/23/2022","United States","San Francisco","Health",2011,449.72,30,6,23,2,2022
+"BlueVoyant",1,"2/23/2022","United States","New York","Cybersecurity",2017,525.5,6,2,23,2,2022
+"Veev",1,"2/24/2022","United States","San Mateo","Internet software & services",2008,604.5,11,1,24,2,2022

@@ -1,0 +1,577 @@
+---
+title: "Unicorn Company"
+author: "Yi Lee, Russell Feinstein"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# **Data Introduction**
+
+A unicorn company, or unicorn startup, is a private company with a valuation over \$1 billion. As of March 2022, there are 1,000 unicorns around the world. Popular former unicorns include Airbnb, Facebook and Google. Variants include a decacorn, valued at over \$10 billion, and a hectocorn, valued at over \$100 billion.
+
+Data Link: <https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset>
+
+### Raw Data Quick View
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+library(rmarkdown)
+setwd('C:/Users/Lee/iCloudDrive/Document/Boston University/CS544 Foundation with R/Final Project')
+df = read.csv('Unicorn_Companies.csv')
+subDf = df[1, ]
+paged_table(df)
+```
+
+There are 1037 data rows.
+
+```{r echo=FALSE}
+temp = colnames(df)
+for(i in 1:length(temp)){
+  print(temp[i])
+}
+```
+
+And 13 columns.
+
+# Data Cleaning
+
+### Define Important Function
+
+In the data cleaning process, we made three functions for convenience.
+
+**NA Value Check**
+
+The function will return the number of NA for each columns
+
+```{r}
+numberOfNa = function(df){
+  flag = 'None' # set 'None' as a checking flag
+  for(i in 1:ncol(df)){
+    temp = df[, i] # extract column one by one
+    n = length(temp[temp == flag]) # count how many 'None'
+    print(paste(colnames(df)[i], n)) # print column name and 'None' quantity
+  }
+}
+```
+
+**Drop NA Value**
+
+The function will drop all NA value of specific column
+
+```{r}
+dropNone = function(df, columnName){
+  drop = which(df[, columnName] == 'None')
+  df = df[-drop, ]
+  return(df)
+}
+```
+
+**Data Type Check**
+
+The function will return the data type for each column
+
+```{r}
+checkType = function(df){
+  for(i in 1:ncol(df)){
+    temp = df[, i]
+    print(paste(colnames(df)[i], '--->', typeof(temp)))
+  }
+}
+```
+
+### Check NA For Each Columns
+
+There number shows that how many NA value are there in every column
+
+```{r}
+numberOfNa(df)
+```
+
+### Drop Data
+
+First, Drop two columns with 988 NA values. Moreover, drop 'Select.Inverstors' column because of it's redundancy.
+
+Second, drop the data rows which have NA values. For example, 'Founded.Year' has 43 NA values, so we drop all of them.
+
+```{r}
+df = df[, -which(colnames(df) %in% c('Financial.Stage', 'Portfolio.Exits'))] # Drop these two columns
+# after check column Select.Inverstors
+# it's not suitable to analysis
+# and I think it's not important
+df = df[, -which(colnames(df) %in% c('Select.Inverstors'))] # Drop 
+### Drop NA for each columns
+df = dropNone(df, 'Founded.Year') # drop NA in Founded.Year
+df = dropNone(df, 'Deal.Terms') # drop NA in Deal.Terms
+df = dropNone(df, 'Total.Raised') # drop NA in Total.Raised
+```
+
+### Change Data Type
+
+The output is the data type of each column before any processing.
+
+```{r echo=FALSE}
+checkType(df)
+```
+
+Before doing any analysis, we have to clean the data value in each column.
+
+For "Valuation...B", change string data type into numeric data type. E.g., "\$5.3" --\> 5.3
+
+For "Total.Raised", change string data type into numeric data type and set 'million' as the column unit. E.g., "\$7.44B" --\> 7440
+
+For "Date.Joined", split the string data type into three new columns, dayJoin, MonthJoin, and yearJoin, in numeric data type. E.g., "4/7/2017" --\> 4, 7, 2017 into three different columns.
+
+For "Founded.Year", "Deal.Terms", and "Investors.Count", turn the string data type into numeric data type. E.g., "2019" --\> 2019
+
+```{r include=FALSE}
+### change data type for Valuation...B. and Total.Raised
+# change string '$140' into numerical data 140
+# change string '$7.44B' into numerical data 7.44
+# Valuation...B.
+temp = c() # set an empty list
+for(i in 1:nrow(df)){
+  d = df[i, 'Valuation...B.'] # take string out, e.g. '$114
+  d = substring(d, 2) # extract into '114'
+  d = as.numeric(d) # change datatype into numeric, e.g. 114
+  temp = append(temp, d) # save into a temporary list
+}
+df$Valuation...B. = temp # replace the old data with new data
+
+# Total.Raised
+# set 'million' as the column unit
+# e.g. '$12B' into 12000
+temp = c() # set an empty list
+for(i in 1:nrow(df)){
+  d = df[i, 'Total.Raised']
+  n = nchar(d) # length of the character
+  unit = substring(d,n) # extract 'B' or 'M'
+  number = substring(d, 2, n-1) # extract number part, e.g. '114'
+  number = as.numeric(number) # turn string into numeric, e.g. 114
+  
+  if(unit == "B"){
+    number = number * 1000 
+    # if unit is 'Billion', times 1000 to make the unit into million
+    # e.g. 3B is 3000M
+  }           
+  
+  temp = append(temp, number) # append the number into the temp list
+}
+df$Total.Raised = temp # replace the old data with new data, which is the temp list
+
+### clean the time data column
+# Date.Joined
+# split date data into year, month, and day
+# split into three columns
+dayJoin = c() # create temp list
+monthJoin = c()
+yearJoin = c()
+
+for(i in 1:nrow(df)){
+  d = df[i, 'Date.Joined']
+  d = strsplit(d, split = '/') # split timestamp
+  names(d) = 'timestamp' # redundant but important thing, or we can't access the list
+  
+  # access the splited time stamp
+  day = d$timestamp[2]
+  month = d$timestamp[1]
+  year = d$timestamp[3]
+  
+  # append them into the temp lists
+  dayJoin = append(dayJoin, as.numeric(day)) 
+  monthJoin = append(monthJoin, as.numeric(month))
+  yearJoin = append(yearJoin, as.numeric(year))
+}
+
+df$dayJoin = dayJoin # create new columns 
+df$monthJoin = monthJoin
+df$yearJoin = yearJoin
+
+# Founded.Year, turn string into numeric
+# e.g. '2022' into 2022
+df$Founded.Year = as.numeric(df$Founded.Year)
+
+### turn the rest string data type into numeric data type
+# Deal.Terms
+df$Deal.Terms = as.numeric(df$Deal.Terms)
+
+# Investors.Count
+df$Investors.Count = as.numeric(df$Investors.Count)
+```
+
+### After Cleaning
+
+There is no more NA value in the data set.
+
+```{r echo=FALSE}
+numberOfNa(df)
+```
+
+The data type of each column is now correct and useful.
+
+```{r echo=FALSE}
+checkType(df)
+```
+
+After the cleaning, the total data rows is dropped to 962 from 1037.
+
+```{r echo=FALSE}
+nrow(df)
+```
+
+The columns after deleting redundant columns and creating new columns.
+
+```{r echo=FALSE}
+temp = colnames(df)
+for(i in 1:length(temp)){
+  print(temp[i])
+}
+```
+
+### Looking at a single row of data
+
+Before
+
+```{r echo=FALSE}
+paged_table(subDf)
+```
+
+After
+
+```{r echo=FALSE}
+paged_table(df[1,])
+```
+
+# **Analysis**
+
+### Refining Data
+
+For ease of analysis, we've decided to only look at countries with more than 20 unicorn companies.
+
+```{r}
+tmp <- as.data.frame(table(df$Country))
+tmp <- tmp[tmp$Freq > 20,]
+df <- df[df$Country %in% tmp$Var1,]
+```
+
+### Startups by Country
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(plotly)
+###### check Country
+temp = sort(table(df$Country), decreasing = TRUE)
+# all country
+temp = data.frame(temp)
+plot_ly(temp, labels = ~Var1, values = ~Freq, type = 'pie') %>%
+  layout(title = 'Distribution of Startups by country')
+
+plot_ly(temp, x = ~Var1, y = ~Freq, type = 'bar') %>%
+  layout(title = 'Number of Companies by Country', yaxis = list(title = 'Count'), xaxis = list(title = 'Country'))
+```
+
+### Startups by Industry
+
+```{r echo=FALSE}
+temp = sort(table(df[,'Industry']), decreasing = TRUE)
+temp = data.frame(temp)
+
+plot_ly(temp, x = ~Var1, y = ~Freq, type = 'bar') %>%
+  layout(title = 'Number of Startups by Industry', yaxis = list(title = 'Count'), xaxis = list(title = 'Industry'))
+
+
+```
+
+### Analysis of Valuation
+
+```{r echo=FALSE}
+temp = df$Valuation...B.
+plot_ly(y = temp, type = 'box') %>% layout(title = 'Valuation of all Companies', yaxis = list(title = '$ Billion'))
+```
+
+A majority of the startups' valuations are clustered around \$1 billion. This is certainly caused by the cut off point at which companies are considered to be unicorns. As such, viewing all the companies together, we see a significant number of outliers. It begs the question of how many of these higher valued companies would still be considered outliers if this dataset included companies valued under \$1 billion. Still, we can separate the companies by country, and look at the distributions of valuations through that lens.
+
+```{r include=FALSE}
+# Create individual dataframes per country
+df.China = subset(df, Country == 'China')
+df.France = subset(df, Country == 'France')
+df.Germany = subset(df, Country == 'Germany')
+df.India = subset(df, Country == 'India')
+df.UnitedKingdom = subset(df, Country == 'United Kingdom')
+df.UnitedStates = subset(df, Country == 'United States')
+```
+
+Valuation separated by country.
+
+```{r echo=FALSE}
+par(mfrow=c(3,1))
+boxplot(df.UnitedStates$Valuation...B., 
+        col = "violet",
+        xlab = "Valuation (Billions)",
+        ylab = "United States",
+        ylim=c(0,10),
+        horizontal = TRUE)
+
+boxplot(df.China$Valuation...B., 
+        col = "red",
+        xlab = "Valuation (Billions)",
+        ylab = "China",
+        ylim=c(0,10),
+        horizontal = TRUE)
+
+boxplot(df.India$Valuation...B., 
+        col = "green",
+        xlab = "Valuation (Billions)",
+        ylab = "India",
+        ylim=c(0,10),
+        horizontal = TRUE)
+```
+
+```{r echo=FALSE}
+par(mfrow=c(3,1))
+boxplot(df.UnitedKingdom$Valuation...B., 
+        col = "cyan",
+        xlab = "Valuation (Billions)",
+        ylab = "United Kingdom",
+        ylim=c(0,10),
+        horizontal = TRUE)
+
+boxplot(df.France$Valuation...B., 
+        col = "orange",
+        xlab = "Valuation (Billions)",
+        ylab = "France",
+        ylim=c(0,10),
+        horizontal = TRUE)
+
+boxplot(df.Germany$Valuation...B., 
+        col = "yellow",
+        xlab = "Valuation (Billions)",
+        ylab = "Germany",
+        ylim=c(0,10),
+        horizontal = TRUE)
+```
+
+Here, we see a similar but slightly different picture. Most notably, the countries with significantly more unicorn companies, have a tendency to have a significant number of these much higher valued companies and, as a result, significantly more outliers. Interestingly enough, these highly valued outliers are still not large enough in number to significantly shift the median.
+
+### Valuation versus Money Raised
+
+Next, lets look further at all of these outliers by examining a companies valuation compared to the total money the company has raised. Due to the significant number of companies based in the United States, the US has an outsize influence on this regression line.
+
+Interestingly though, the countries with less total companies seem to have companies that raise more money (compared to the each company's valuation). This begs some interesting questions: Are these very highly valued companies actually able to raise the funds they need to be successful? Are the unicorns from countries with less total companies more likely to be successful, as they are raising more money (when compared to their valuation)? Does this simply mean that many of the highly valued companies are over valued?
+
+```{r echo=FALSE}
+# Overall
+fit = lm(Total.Raised~Valuation...B., data = df)
+plot_ly(data = df, x = ~Valuation...B.) %>%
+  add_markers(y = ~Total.Raised) %>%
+  add_lines(x = ~Valuation...B., y = fitted(fit)) %>%
+  layout(showlegend = F, title = 'Valuation vesus Money Raised',
+         xaxis = list(title = 'Valuation in Billions'),
+         yaxis = list(title = 'Total Rised'))
+
+```
+
+```{r echo=FALSE}
+# By Country
+df$lmPoint = lm(data = df, Total.Raised ~ Valuation...B. * Country) %>% fitted.values()
+
+plot_ly(data = df, x = ~Valuation...B., y = ~Total.Raised, color = ~Country, type = 'scatter', mode = 'markers') %>%
+  add_trace(x = ~Valuation...B., y = ~lmPoint, mode = 'lines')%>%
+  layout(title = 'Valuation versus Money Raised by country',
+         xaxis = list(title = 'Valuation in Billions'),
+         yaxis = list(title = 'Total Rised'))
+
+```
+
+### Central Limit Theorem for Valuation
+
+The Central Limit Theorem states that the distribution of the sample means for a given sample size of the population has the shape of the normal distribution. Essentially, as our sample size grows, the means of the samples will converge towards the mean and create a normal distribution. Below shows the distributions of 1000 random samples of sample sizes 10, 20, 30, and 40.
+
+We saw earlier that the distribution of valuations was not normal and had a significant right skew. This skew can be seen quite clearly when the sample size is only 10, but we can see the skew essentially disappear once the sample size grows large enough.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+mu <- mean(df$Valuation...B.)
+sigma <- sd(df$Valuation...B.)
+samples <- 1000
+par(mfrow = c(2,2))
+xbar <- numeric(samples)
+messageQ = c()
+for (size in c(10, 20, 30, 40)) {
+  for (i in 1:samples) {
+    xbar[i] <- mean(rnorm(size, mean = mu, sd = sigma))
+  }
+  
+  hist(xbar,
+       breaks = 15, xlim=c(0, mu+sigma),
+       main = paste("Sample Size =", size))
+  
+  tmp = paste("Sample Size = ", size, " Mean = ", mean(xbar),
+      " SD = ", sd(xbar))
+  messageQ = append(messageQ, tmp)
+}
+
+
+temp = paste("Total Size =  ", length(df$Valuation...B.), "Mean = ", mu, " SD = ", sigma)
+
+messageQ = append(messageQ, temp)
+
+```
+
+```{r echo=FALSE}
+for(i in 1:length(messageQ)){
+  print(messageQ[i])
+}
+```
+
+### Sampling
+
+Here, we use sampling to get a representative portion of the population in order to perform further analysis. There are a variety of sampling methods and here we've chosen a few to look at the subsets that are created by the various sampling methods.
+
+**Original Data**
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(sampling)
+sample.size <- 80
+pop <- nrow(df)
+
+# plot 
+temp = table(df$Country)
+temp = sort(temp, decreasing = T)
+temp = data.frame(temp)
+plot_ly(temp, x = ~Var1, y = ~Freq, type = 'bar') %>%
+  layout(title = 'Total Data', yaxis = list(title = 'Count'), xaxis = list(title = 'Country'))
+
+# percentage combination
+temp = table(df$Country)
+temp = sort(temp, decreasing = T)
+temp = prop.table(temp) * 100
+totalData = data.frame(temp)
+colnames(totalData) = c('Country', 'Percentage')
+
+```
+
+**SRSWOR**
+
+```{r echo=FALSE}
+# SRSWOR
+set.seed(6396)
+s <- srswor(sample.size, pop)
+sample.random <- df[s != 0,]
+
+# plot
+freq <- table(df$Country[s != 0])
+freq = sort(freq, decreasing = T)
+temp = data.frame(freq)
+plot_ly(temp, x = ~Var1, y = ~Freq, type = 'bar') %>%
+  layout(title = 'SRSWOR with size = 80', yaxis = list(title = 'Count'), xaxis = list(title = 'Country'))
+
+# percentage combination
+temp = prop.table(freq) * 100
+srsworData = data.frame(temp)
+colnames(srsworData) = c('Country', 'Percentage')
+srsworData = rbind(srsworData, data.frame('Country' = "France", 'Percentage' = 0))
+
+
+
+```
+
+**Systematic Sampling**
+
+```{r echo=FALSE}
+k <- ceiling(pop / sample.size)
+set.seed(6396)
+r <- sample(k, 1)
+s <- seq(r, by = k, length = sample.size)
+sample.systematic <- df[s,]
+
+# plot
+freq <- table(sample.systematic$Country)
+freq = sort(freq, decreasing = T)
+temp = data.frame(freq)
+plot_ly(temp, x = ~Var1, y = ~Freq, type = 'bar') %>%
+  layout(title = 'Systematic Sampling with size = 80', yaxis = list(title = 'Count'), xaxis = list(title = 'Country'))
+
+# percentage combination
+temp = prop.table(freq) * 100
+sysData = data.frame(temp)
+colnames(sysData) = c('Country', 'Percentage')
+
+
+```
+
+**Stratified Sampling**
+
+```{r echo=FALSE}
+df.sorted <- df[order(df$Country),]
+freq <- table(df.sorted$Country)
+
+
+strata.sizes <- 80 * freq / sum(freq)
+set.seed(6396)
+strata <- sampling::strata(df.sorted, stratanames = c("Country"),
+                           size = strata.sizes, method = "srswor",
+                           description = TRUE)
+set.seed(6396)
+sample.strata <- getdata(df.sorted, strata)
+
+
+
+# plot
+freq <- table(sample.strata$Country)
+freq = sort(freq, decreasing = T)
+temp = data.frame(freq)
+plot_ly(temp, x = ~Var1, y = ~Freq, type = 'bar') %>%
+  layout(title = 'Stratified  Sampling with size = 80', yaxis = list(title = 'Count'), xaxis = list(title = 'Country'))
+
+# percentage combination
+temp = prop.table(freq) * 100
+strData = data.frame(temp)
+colnames(strData) = c('Country', 'Percentage')
+```
+
+**Sampling Conclusion**
+
+```{r include=FALSE}
+### Sampling conclusion
+totalData = as.data.frame(t(as.matrix(totalData)))
+colnames(totalData) = NULL
+rownames(totalData) = NULL
+
+srsworData = as.data.frame(t(as.matrix(srsworData)))
+colnames(srsworData) = NULL
+rownames(srsworData) = NULL
+
+sysData = as.data.frame(t(as.matrix(sysData)))
+colnames(sysData) = NULL
+rownames(sysData) = NULL
+
+strData = as.data.frame(t(as.matrix(strData)))
+colnames(strData) = NULL
+rownames(strData) = NULL
+
+```
+
+Total Data
+
+```{r echo=FALSE}
+paged_table(totalData)
+```
+
+SRSWOR
+
+```{r echo=FALSE}
+paged_table(srsworData)
+```
+
+Systematic
+
+```{r echo=FALSE}
+paged_table(sysData)
+```
+
+Stratified
+
+```{r echo=FALSE}
+paged_table(strData)
+```
